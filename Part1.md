@@ -97,3 +97,8 @@ Think of a workspace as a container that allows you to manage the entire lifecyc
 Workspaces are a means of collaborating and sharing content with colleagues. Whether it’s personal or intended for collaboration, any workspace you create is created on capacities.  
 
 Features that come with collaboration include the ability to create and publish Power BI-based dashboards, reports, workbooks, datasets, and apps with a team.
+
+#### Dataflow:
+A dataflow is a collection of tables that collects the datasets imported into Power BI. After the tables are created and managed in your workspace, you can add, edit, and delete data within a dataflow. The data refresh can occur using a predefined schedule as well.  
+
+Power BI uses an Azure data lake, to store the extremely large volumes of data necessary for Power BI to evaluate, process, and analyze data rapidly.
