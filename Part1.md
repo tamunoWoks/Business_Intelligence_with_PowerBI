@@ -15,6 +15,7 @@ Data refers to raw facts, figures or information that can be in the form of numb
 -	It can be structured (e.g., spreadsheets, databases), semi-structured or unstructured (e.g., social media posts, emails, videos).
 -	It can be quantitative (e.g., temperature, sales figures) or qualitative (e.g., customer feedback, interview responses).  
 Data should not be confused with information. Data is usually raw and unprocessed while information is processed, structured and meaningful data that provides contest.  
+
 **Examples of Data:**
 -	Numbers: Sales records, temperatures, stock prices.
 -	Text: Social media posts, books, emails.
