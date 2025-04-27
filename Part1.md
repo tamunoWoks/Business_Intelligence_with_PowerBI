@@ -120,3 +120,13 @@ When you open a report, it opens in Reading view. If granted Edit permissions, y
 Administrative, member, or contributor access grants you access to exploring, designing, building, and sharing capabilities within Edit view. Users who access the reports created by these users can interact with reports in Read-Only mode. That means they can’t edit it, they can only view the output.  
 
 Reports created by privileged users are accessible under a workspace’s Reports tab. Each report represents a single-page visualization, which means it’s based on only one dataset.
+
+#### Dashboards:
+Power BI dashboard, also known as **Canvas**, brings your data story to life. Think of it as a blank canvas. As you build your reports, widgets, tiles, and key performance indicators (KPIs) over time, you pin the relevant ones to the dashboard to create a single visualization.  
+
+The dashboard represents the large dataset that you feel covers your topic at a glance. As such, it can help you make decisions,
+support you in monitoring data, or make it possible for you to drill down in your dataset by applying different visualization options.  
+
+To access a particular dashboard, you must first open a workspace and then click the Dashboards tab. Keep in mind that every dashboard represents a customized view of an underlying dataset.  
+
+If you own a dashboard, you have permission to edit it. Otherwise, you have only read-only access. You can share a dashboard with others, but they may not be able to save any changes.
