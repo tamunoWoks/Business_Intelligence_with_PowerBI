@@ -36,3 +36,10 @@ Semi-structured data has some formality, but it isn’t stored in a relational s
 
 Non-relational data systems or NoSQL databases are best associated with semi-structured data.
 
+### BIG DATA
+Big data is a concept where the business and data analyst will evaluate extremely large datasets which may reveal patterns and trends relating to human behavior and interactions that are not easily identifiable without the use of specific tools.  
+A typical big data collection is often expressed in millions of records.  
+
+Power BI can evaluate many data sources and millions of records simultaneously. The sources don’t need to be structured; they can be unstructured or semi-structured.   
+
+Across the Power BI platforms, you are certain at some point to encounter one (or more) of the following products:
