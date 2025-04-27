@@ -54,3 +54,6 @@ Working behind the Power Query scenes is a formula language called M, but M neve
 #### POWER PIVOT
 Power BI’s data modeling tool is called Power Pivot. With it, you can create models such as star schemas, calculated measures, and columns and build complex diagrams. Power Pivot leverages another programming language called the Data Analysis eXpression Language (DAX). It is a formula-based language used for data analysis purposes.
 
+#### POWER VIEW
+The visualization engine of Power BI is Power View. You can use Power View to generate interactive charts, graphs, maps and visuals. The idea is to connect to data sources, fetch and transform that data for analysis, and then have Power View present the output using one of its many visualization options.  
+Power View gives users the ability to filter data for individual variables or an entire report. Users can slice data at the variable level or even break out elements in Power View to focus on data that may be considered anomalous.
