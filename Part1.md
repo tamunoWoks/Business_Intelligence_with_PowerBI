@@ -84,7 +84,8 @@ Power BI Services allows users to collaborate and share their dashboards, report
 ## POWER BI TERMINOLOGY
 Power BI has its own glossary. These terminologies are referred to as concepts and they resonate across vendors.
 -	**Capacities:**  
-Capacities are the sum of resources needed to complete any project you may create in Power BI. Resources include the storage, processor, and memory required to host and deliver the Power BI projects.  
+Capacities are the sum of resources needed to complete any project you may create in Power BI. Resources include the storage, processor, and memory required to host and deliver the Power BI projects.
+
 There are two types of capacity:  
 **Shared:** A shared capacity allows you to share resources with other Microsoft end users.   
 **Dedicated:** A dedicated capacity fully commits resources to you alone.
