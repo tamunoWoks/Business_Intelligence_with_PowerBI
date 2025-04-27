@@ -130,3 +130,12 @@ support you in monitoring data, or make it possible for you to drill down in you
 To access a particular dashboard, you must first open a workspace and then click the Dashboards tab. Keep in mind that every dashboard represents a customized view of an underlying dataset.  
 
 If you own a dashboard, you have permission to edit it. Otherwise, you have only read-only access. You can share a dashboard with others, but they may not be able to save any changes.
+
+#### Navigation pane: 
+All the capabilities discussed to this point are labels found in the Navigation pane. You would use the Navigation pane to complete actions to locate and move between a workspace and the various Power BI capabilities you want to use (dashboards, reports, workbooks,
+datasets).  
+
+Your Navigation pane options are endless. A user can:
+»»Expand and collapse the Navigation pane.
+»»Open and manage your favorite content with the help of the Favorites option.
+»»View and open the most recently visited section of content.
