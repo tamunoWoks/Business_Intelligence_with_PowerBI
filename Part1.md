@@ -105,3 +105,14 @@ Power BI uses an Azure data lake, to store the extremely large volumes of data n
 
 Unlike a dataflow (which is a collection of tables), a dataset should be treated as a single asset in your collection of data sources.  
 Think of a dataset as a subset of data. When used with dataflows, the dataset is mapped to a managed Azure data lake.
+
+#### Reports:
+Power BI Reports translates transformed data into one or more pages of visualizations (Line charts, Bar charts, donuts, treemaps, etc). You can either evaluate your data at a high level or focus on a particular data subset.  
+
+You can tackle creating a report in a number of ways, from taking a dataset using a single source and creating an output from scratch to importing data from many sources.  
+
+Power BI offers two Report view modes: 
+- Reading view 
+- Editing view.
+
+When you open a report, it opens in Reading view. If granted Edit permissions, you can edit a report. When a report is in a workspace, any user with administrative, member, or contributor rights can edit a report.
