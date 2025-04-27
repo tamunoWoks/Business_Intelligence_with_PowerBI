@@ -136,6 +136,6 @@ All the capabilities discussed to this point are labels found in the Navigation 
 datasets).  
 
 Your Navigation pane options are endless. A user can:
-»»Expand and collapse the Navigation pane.
-»»Open and manage your favorite content with the help of the Favorites option.
-»»View and open the most recently visited section of content.
+- Expand and collapse the Navigation pane.
+- Open and manage your favorite content with the help of the Favorites option.
+- View and open the most recently visited section of content.
