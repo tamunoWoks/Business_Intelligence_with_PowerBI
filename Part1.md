@@ -115,4 +115,8 @@ Power BI offers two Report view modes:
 - Reading view 
 - Editing view.
 
-When you open a report, it opens in Reading view. If granted Edit permissions, you can edit a report. When a report is in a workspace, any user with administrative, member, or contributor rights can edit a report.
+When you open a report, it opens in Reading view. If granted Edit permissions, you can edit a report. When a report is in a workspace, any user with administrative, member, or contributor rights can edit a report.  
+
+Administrative, member, or contributor access grants you access to exploring, designing, building, and sharing capabilities within Edit view. Users who access the reports created by these users can interact with reports in Read-Only mode. That means they can’t edit it, they can only view the output.  
+
+Reports created by privileged users are accessible under a workspace’s Reports tab. Each report represents a single-page visualization, which means it’s based on only one dataset.
