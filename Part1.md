@@ -1,4 +1,4 @@
-## About Power BI
+## ABOUT POWER BI
 What does Business intelligence require?  
 -	Querying data sources
 -	Reporting & Caching data
