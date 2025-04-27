@@ -90,3 +90,10 @@ Capacities are the sum of resources needed to complete any project you may creat
 There are two types of capacity:  
 - **Shared:** A shared capacity allows you to share resources with other Microsoft end users.   
 - **Dedicated:** A dedicated capacity fully commits resources to you alone.
+
+#### Workspaces:
+Think of a workspace as a container that allows you to manage the entire lifecycle of dashboards, reports, workbooks, datasets, and dataflows in the Power BI Services environment.  
+
+Workspaces are a means of collaborating and sharing content with colleagues. Whether it’s personal or intended for collaboration, any workspace you create is created on capacities.  
+
+Features that come with collaboration include the ability to create and publish Power BI-based dashboards, reports, workbooks, datasets, and apps with a team.
