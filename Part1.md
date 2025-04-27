@@ -43,3 +43,10 @@ A typical big data collection is often expressed in millions of records.
 Power BI can evaluate many data sources and millions of records simultaneously. The sources don’t need to be structured; they can be unstructured or semi-structured.   
 
 Across the Power BI platforms, you are certain at some point to encounter one (or more) of the following products:
+#### POWER QUERY
+Power Query is a data connection tool you can use to transform, combine, and enhance data across several data sources. With Power BI’s Power Query you can extract data from numerous data sources as well as read data from relational sources.   
+If you’re looking to extract data from unstructured, semi-structure, or application sources, Power Query makes that possible as well. You can also use Power Query to mine platforms such as LinkedIn, Facebook, or Twitter if you have access to API services that map to specific data fields on the platforms.  
+
+The procedure for using Power Query is always the same: It transforms the data you specify by adding columns, rows, data types, date and time, text fields, and appropriate operators making it ready for consumption.   
+The product produced by the Power Query output in the Editor can then be transferred to either a portable file such as Excel or something more robust, such as a Power Pivot model.  
+Working behind the Power Query scenes is a formula language called M, but M never shows its face as part of the graphical user interface.
