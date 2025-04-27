@@ -33,5 +33,6 @@ Unstructured data is ambiguous, without any rhyme, reason, or consistency. Any v
 
 #### SEMI-STRUCTURED DATA
 Semi-structured data has some formality, but it isn’t stored in a relational system, and it has no set format. Semi-structured data contains tags that make the data easier to organize in some form of hierarchy.  
+
 Non-relational data systems or NoSQL databases are best associated with semi-structured data.
 
