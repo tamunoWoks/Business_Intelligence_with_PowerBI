@@ -22,3 +22,8 @@ Data should not be confused with information. Data is usually raw and unprocesse
 -	Text: Social media posts, books, emails.
 -	Media: Photos, videos, audio recordings.
 -	Sensor Data: GPS signals, health tracker metrics. 
+
+#### STRUCTURED DATA
+Structured data conforms to a tabular format; this means each column and row maintains an interrelationship. A formal specification of tables with rows and columns is commonly referred to as **DATA SCHEMA**.  
+
+The most accessible data sources for Power BI are structured. Platforms such as Microsoft SQL Server, Microsoft Azure SQL Server, Microsoft Access, Azure Table Storage, Oracle, IBM DB2, MySQL, PostgreSQL, Microsoft Excel, Google Sheets and several others all offer robust structured data options.  
