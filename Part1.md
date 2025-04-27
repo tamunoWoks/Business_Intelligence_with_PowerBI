@@ -63,3 +63,10 @@ Power View gives users the ability to filter data for individual variables or an
 This is a visualization toll for creating 3d map renderings. Sometimes, visualizing data requires a bit more than a Bar chart or a table. If you need a map that integrates geospatial coordinates with 3D requirements or you’re looking to add dimensionality to your data with the help of heat maps, in that case, you want to consider Power BI’s Power Map feature set.  
 
 Another feature built into Power Map is the use of geospatial capabilities using Microsoft Bing. A user can highlight data using geocoordinate latitude and longitudinal data as granular as an address or as global as a country.
+
+#### POWER Q&A
+Power Q&A is an artificial intelligence engine that allows you to ask questions and receive responses using plain language which works in conjunction with Power View.  
+It is a natural language engine that interprets text, numbers, and even speech so that users can query the data model directly.  
+
+A classic example of a situation where Power Q&A can be enormously helpful would involve determining how many users have purchased a specific item at a given store location. If you want to drill down further, you could analyze a whole set of metrics.  
+The possibilities are endless if you’ve built your data model to accommodate the questions.
