@@ -56,4 +56,5 @@ Power BI’s data modeling tool is called Power Pivot. With it, you can create m
 
 #### POWER VIEW
 The visualization engine of Power BI is Power View. You can use Power View to generate interactive charts, graphs, maps and visuals. The idea is to connect to data sources, fetch and transform that data for analysis, and then have Power View present the output using one of its many visualization options.  
+
 Power View gives users the ability to filter data for individual variables or an entire report. Users can slice data at the variable level or even break out elements in Power View to focus on data that may be considered anomalous.
