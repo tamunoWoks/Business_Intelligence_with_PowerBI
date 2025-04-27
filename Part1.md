@@ -70,3 +70,9 @@ It is a natural language engine that interprets text, numbers, and even speech s
 
 A classic example of a situation where Power Q&A can be enormously helpful would involve determining how many users have purchased a specific item at a given store location. If you want to drill down further, you could analyze a whole set of metrics.  
 The possibilities are endless if you’ve built your data model to accommodate the questions.
+
+#### POWER BI DESKTOP
+Power BI desktop is a free, all in one solution that brings all the apps described above together into a single graphical user interface.  Using Power BI Desktop, you can complete all your business intelligence activities under a single umbrella.   
+
+Microsoft updates Power BI Desktop features monthly, so you can always be on the BI cutting edge.
+
