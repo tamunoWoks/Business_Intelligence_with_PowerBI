@@ -58,3 +58,8 @@ Power BI’s data modeling tool is called Power Pivot. With it, you can create m
 The visualization engine of Power BI is Power View. You can use Power View to generate interactive charts, graphs, maps and visuals. The idea is to connect to data sources, fetch and transform that data for analysis, and then have Power View present the output using one of its many visualization options.  
 
 Power View gives users the ability to filter data for individual variables or an entire report. Users can slice data at the variable level or even break out elements in Power View to focus on data that may be considered anomalous.
+
+#### POWER MAP
+This is a visualization toll for creating 3d map renderings. Sometimes, visualizing data requires a bit more than a Bar chart or a table. If you need a map that integrates geospatial coordinates with 3D requirements or you’re looking to add dimensionality to your data with the help of heat maps, in that case, you want to consider Power BI’s Power Map feature set.  
+
+Another feature built into Power Map is the use of geospatial capabilities using Microsoft Bing. A user can highlight data using geocoordinate latitude and longitudinal data as granular as an address or as global as a country.
