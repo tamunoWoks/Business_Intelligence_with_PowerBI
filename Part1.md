@@ -80,3 +80,6 @@ Microsoft updates Power BI Desktop features monthly, so you can always be on the
 This is a cloud-based user experience to collaborate and distribute products such as reports with others. It functions as the Software as a Service companion to Power BI.  
 
 Power BI Services allows users to collaborate and share their dashboards, reports, and datasets with other users from a single location. The version of Power BI you have licensed dictates your ability to share and ingest data.
+
+## POWER BI TERMINOLOGY
+Power BI has its own glossary. These terminologies are referred to as concepts and they resonate across vendors.
