@@ -101,4 +101,7 @@ Features that come with collaboration include the ability to create and publish 
 #### Dataflow:
 A dataflow is a collection of tables that collects the datasets imported into Power BI. After the tables are created and managed in your workspace, you can add, edit, and delete data within a dataflow. The data refresh can occur using a predefined schedule as well.  
 
-Power BI uses an Azure data lake, to store the extremely large volumes of data necessary for Power BI to evaluate, process, and analyze data rapidly.
+Power BI uses an Azure data lake, to store the extremely large volumes of data necessary for Power BI to evaluate, process, and analyze data rapidly. The Azure Data Lake also helps with cleaning and transforming data quickly when the datasets are voluminous in size.  
+
+Unlike a dataflow (which is a collection of tables), a dataset should be treated as a single asset in your collection of data sources.  
+Think of a dataset as a subset of data. When used with dataflows, the dataset is mapped to a managed Azure data lake.
