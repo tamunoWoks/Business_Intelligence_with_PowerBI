@@ -10,6 +10,7 @@ Power BI allows users to visualize and discover what is truly essential in their
 
 ### WHAT IS DATA?
 Data refers to raw facts, figures or information that can be in the form of numbers, text, images, audio, video or any other format.  
+
 **Key characteristics of data include:**
 -	It is usually raw and unprocessed
 -	It can be structured (e.g., spreadsheets, databases), semi-structured or unstructured (e.g., social media posts, emails, videos).
