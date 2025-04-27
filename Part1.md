@@ -50,3 +50,7 @@ If you’re looking to extract data from unstructured, semi-structure, or applic
 The procedure for using Power Query is always the same: It transforms the data you specify by adding columns, rows, data types, date and time, text fields, and appropriate operators making it ready for consumption.   
 The product produced by the Power Query output in the Editor can then be transferred to either a portable file such as Excel or something more robust, such as a Power Pivot model.  
 Working behind the Power Query scenes is a formula language called M, but M never shows its face as part of the graphical user interface.
+
+#### POWER PIVOT
+Power BI’s data modeling tool is called Power Pivot. With it, you can create models such as star schemas, calculated measures, and columns and build complex diagrams. Power Pivot leverages another programming language called the Data Analysis eXpression Language (DAX). It is a formula-based language used for data analysis purposes.
+
