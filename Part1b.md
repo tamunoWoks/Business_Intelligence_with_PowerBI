@@ -14,5 +14,5 @@ The term data analysis can mean many things, from data discovery to data mining.
 
 BI often provides users with a variety of modeling and analytics tools. Some come equipped with visualization options, and others have data modeling and analytics solutions for exploratory, descriptive, predictive, statistical, and even cognitive evaluation analysis.  
 
-**Use visualization options in order to provide data clarity:**
+**Use visualization options in order to provide data clarity:**  
 You may have lots of data stored in one or more repositories. Querying the data to be understood and shared among users and groups is the actual value of business intelligence tools. Visualization options often include reporting, dashboards, charts, graphics, mapping, key performance indicators, and datasets.
