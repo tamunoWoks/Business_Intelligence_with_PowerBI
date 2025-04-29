@@ -18,4 +18,16 @@ a) Business analyst
 b) Data engineer  
 c) Database administrators.  
 
-The database administrator requires that the data analyst be familiar with the data platform and its accompanying security principles, process management, and general management principles.
+The database administrator requires that the data analyst be familiar with the data platform and its accompanying security principles, process management, and general management principles.  
+
+**DATA ENGINEER**  
+The people implementing BI solutions must be able to address data on-premises as well as data in the cloud. Moreover, the data you’re managing and securing often requires that you evaluate the flow of both structured and unstructured data sources. Sometimes, it may be just the one source, but more often than not it involves many different sources. The platforms themselves run the gamut, from a typical relational database to nonrelational databases and even from data streams to file stores.  
+
+Data must always be secure and seamlessly integrated regardless of the data service. Just like the data analysts, data engineers have to wear many hats, but to implement data tools rather than analyzing processes. That means the engineer must know how to use onpremises service tools as well as cloud data service tools to ingest and transform data across sources.  
+
+Finally, keep in mind that you can’t plan on the sources being bound to just the organization itself, because data sources often live outside your organization’s four walls.  
+
+Synergies often exist between the data engineer and a database administrator. You might wonder why a data engineer isn’t called a database administrator also. A data engineer doesn’t just supply advisory services, manage the hosted infrastructure, or support operational data needs. They are also responsible for crafting the agenda for business intelligence and data science initiatives. The role requires the engineer to have a handle on data in all shapes and formats. As such, the data engineer must master data wrangling, where you use the latest technology to transform and map data from its raw form to a more streamlined form,easy for BI or analytics to exploit.  
+
+Smaller organizations often look to have a jack-of-all-trades who would be in a position to support as many tasks as possible. As you’ll quickly realize, the roles blur a bit. In the real world, data analysts, data engineers, and database administrators work together, often sharing duties and responsibilities. It’s not uncommon to have an overseer role with a single title — commonly, data engineer.  
+A database administrator, analyst, or even a BI professional can easily transition into the data engineer role, as long as they grasp the requirements of the people, processes, and technologies used to sift through the data.
