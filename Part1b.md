@@ -31,3 +31,10 @@ Synergies often exist between the data engineer and a database administrator. Yo
 
 Smaller organizations often look to have a jack-of-all-trades who would be in a position to support as many tasks as possible. As you’ll quickly realize, the roles blur a bit. In the real world, data analysts, data engineers, and database administrators work together, often sharing duties and responsibilities. It’s not uncommon to have an overseer role with a single title — commonly, data engineer.  
 A database administrator, analyst, or even a BI professional can easily transition into the data engineer role, as long as they grasp the requirements of the people, processes, and technologies used to sift through the data.
+
+**DATA SCIENTIST**  
+The data scientist is laser focused on creating and executing advanced analytics to extract the data from the systems put in place by the business analysts, data analysts, data engineers, and database administrators. They perform analytics routines on descriptive, diagnostic, prescriptive, predictive, and cognitive data. Whether the analysis conducted is quantitative using statistical tooling or machine learning functionality to detect patterns and anomalies or the data requires qualitative evaluation, the end goal is to create a well built model.  
+
+Building data models with analytics is only part of a data scientist’s responsibility. As the world of machine learning and artificial intelligence continues to thrive, the data scientist is tasked with exploring deep learning and performing experiments with complex data problems with various coding languages using algorithmic techniques.  
+
+It’s no secret that most of the time spent by a data scientist is on addressing issues related to fixing data, also known as data wrangling. By having a team, the data scientist can often speed up the process. Better yet, by using tools, such as Power BI, that automate many of the roles in the business intelligence and data science lifecycle, the data scientist can more easily address the questions that require answers.
