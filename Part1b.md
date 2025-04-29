@@ -38,3 +38,13 @@ The data scientist is laser focused on creating and executing advanced analytics
 Building data models with analytics is only part of a data scientist’s responsibility. As the world of machine learning and artificial intelligence continues to thrive, the data scientist is tasked with exploring deep learning and performing experiments with complex data problems with various coding languages using algorithmic techniques.  
 
 It’s no secret that most of the time spent by a data scientist is on addressing issues related to fixing data, also known as data wrangling. By having a team, the data scientist can often speed up the process. Better yet, by using tools, such as Power BI, that automate many of the roles in the business intelligence and data science lifecycle, the data scientist can more easily address the questions that require answers.
+
+**DATABASE ADMINISTRATOR**  
+Your database administrator handles implementing and managing the database infrastructure. In some organizations, the database is entirely cloud enabled. Legacy organizations, on the other hand, have often kept their database on-premises or in a state of flux, resulting in a hybrid data platform deployment. When using Power BI, you’ll likely have your database administrator build solutions on top of
+Microsoft Azure-based data services, including Microsoft Azure SQL.  
+
+Whereas the data engineer or analyst might handle the availability and performance of the database solution, ensuring that stakeholders can identify and implement the policies and procedures they need in order to support the data environment properly, the data administrator ensures the wellness of the database as well as the infrastructure that the organization’s data runs on.  
+
+When you try to sum up who does what in the Power BI data lifecycle, keep these two points in mind:  
+- Your business analyst, data analyst, and data engineer are involved in the creation of data and its manageability. The key words here are ingestion, transformation, validation, cleansing, and creation.
+- Your database administrator, on the other hand, handles the systems which ensure that the data remains healthy. The responsibility isn’t just limited to data reliability, but security fitness as well.
