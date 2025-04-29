@@ -5,5 +5,5 @@ Using the enterprise BI tool, interested parties can produce visualizations via 
 Many tools allow for collaboration and sharing among groups, because data changes over time.  
 
 Here are four actions BI tools allow to transform raw data into readily accessible data:  
-- Collect and transform your data:  
+**Collect and transform your data:**  
 When using multiple data sources, BI tools allow you to extract, transform, and load (ETL) data from structured and unstructured sources. When that process is complete, you can then store the data in a central repository so that an application can analyze and query the data.
