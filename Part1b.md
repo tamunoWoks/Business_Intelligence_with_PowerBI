@@ -11,4 +11,12 @@ decision-makers and the data team. When a new report or dashboard requires creat
 **DATA ANALYST**  
 Unlike the business analyst, the data analyst does not approach analysis based on a user or the business need, but rather on the data produced. Once data enters the enterprise Information systems, these assets become the analyst’s most valuable utility. The data analyst looks to understand value by way of visualization and reporting tools, such as Power BI. As Such, the data analyst wears many hats in that role, from profiling, cleansing, and transforming raw data to presenting the data in its finalized form to the appropriate stakeholders.   
 
-A data analyst, in addition to managing the data behind the scenes, also has a hands-on role in the management of Power BI assets. When a business analyst is tasked with translating requirements into actual products, the data analyst is thepoint person who acts as the developer. That person addresses the data and reporting requirements by turning raw data into relevant, valuable insights.
+A data analyst, in addition to managing the data behind the scenes, also has a hands-on role in the management of Power BI assets. When a business analyst is tasked with translating requirements into actual products, the data analyst is thepoint person who acts as the developer. That person addresses the data and reporting requirements by turning raw data into relevant, valuable insights.  
+
+Think of the data analyst as the gatekeeper. This person must work as an intermediary
+between the end user and the:
+a) Business analyst 
+b) Data engineer
+c) Database administrators.  
+
+The database administrator requires that the data analyst be familiar with the data platform and its accompanying security principles, process management, and general management principles.
