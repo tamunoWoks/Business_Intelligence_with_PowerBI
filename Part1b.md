@@ -16,3 +16,8 @@ BI often provides users with a variety of modeling and analytics tools. Some com
 
 **Use visualization options in order to provide data clarity:**  
 You may have lots of data stored in one or more repositories. Querying the data to be understood and shared among users and groups is the actual value of business intelligence tools. Visualization options often include reporting, dashboards, charts, graphics, mapping, key performance indicators, and datasets.
+
+**Taking action and making decisions:**  
+The process culminates with all the data at your fingertips to make actionable decisions. Companies act by taking insights across a dataset. They parse through data in chunks, reviewing small subsets of data and potentially making significant decisions.  
+
+Companies embrace business intelligence because it helps them reduce inefficiency, correct problems, and adapt the business to support market conditions.
