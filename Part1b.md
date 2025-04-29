@@ -7,4 +7,10 @@ Many tools allow for collaboration and sharing among groups, because data change
 Here are four actions BI tools allow to transform raw data into readily accessible data:  
 
 **Collect and transform your data:**  
-When using multiple data sources, BI tools allow you to extract, transform, and load (ETL) data from structured and unstructured sources. When that process is complete, you can then store the data in a central repository so that an application can analyze and query the data.
+When using multiple data sources, BI tools allow you to extract, transform, and load (ETL) data from structured and unstructured sources. When that process is complete, you can then store the data in a central repository so that an application can analyze and query the data.  
+
+**Analyze data to discover trends:** 
+The term data analysis can mean many things, from data discovery to data mining. The business objective, however, is all the same:  
+It all boils down to the size of the dataset, the automation process, and the objective for pattern analysis.  
+
+BI often provides users with a variety of modeling and analytics tools. Some come equipped with visualization options, and others have data modeling and analytics solutions for exploratory, descriptive, predictive, statistical, and even cognitive evaluation analysis. 
