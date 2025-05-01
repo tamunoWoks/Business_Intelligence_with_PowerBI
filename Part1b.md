@@ -119,4 +119,9 @@ machine learning engine to find patterns, which helps deliver on different outco
 **Cognitive Analytics:**  
 Referred to at times as inferential analytics; lets the analyst pull together data from across the datasets to detect patterns, develop conclusions, and set up a knowledge bank for future learning. The keyword here is future because what is learned and seen is used to self-guide for the future.  
 
-If conditions change, the knowledge bank adjusts accordingly. Because inferences are unstructured thoughts and hypotheses, it’s up to machine learning solutions within Power BI to process the data change, make sense of the existing data sources, and create data correlations.
+If conditions change, the knowledge bank adjusts accordingly. Because inferences are unstructured thoughts and hypotheses, it’s up to machine learning solutions within Power BI to process the data change, make sense of the existing data sources, and create data correlations.  
+
+### Looking at the Big Picture  
+As the data in the organization grows, so does the need for more stakeholders to support the enterprise. Each stakeholder has a unique place in supporting the BI data lifecycle.  
+
+Though data is often raw when first introduced as part of the data lifecycle, the final product created using Power BI must be refined and crisp. Whether you enable reporting, data visualization, dashboarding, KPI, or another BI choice within the Power BI platform, remember that the data must be free from errors and trusted for any business to be successful. That means the data is consumable, meaningful, accessible, and understood by all parties no matter what the analytics product might be.
