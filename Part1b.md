@@ -90,4 +90,6 @@ Power BI, consists of lots of different apps. The outputs produced are plentiful
 
 Power BI fosters collaboration between teams and individuals. Sharing of content means ensuring that the right stakeholders gain access to the product you’ve created.  
 
-Security can be a bit challenging in large organizations. Your business analyst, data analyst, and data engineer each has a role in making sure that the right people have access to only what they need. The data scientist makes sure that the data assets being created are of high value. And of course, the database administrator ensures that the data house is always open for business by managing the infrastructure that all stakeholders support as part of the data lifecycle for business intelligence using Power BI.
+Security can be a bit challenging in large organizations. Your business analyst, data analyst, and data engineer each has a role in making sure that the right people have access to only what they need. The data scientist makes sure that the data assets being created are of high value. And of course, the database administrator ensures that the data house is always open for business by managing the infrastructure that all stakeholders support as part of the data lifecycle for business intelligence using Power BI.  
+
+## Types of Data Analytics
