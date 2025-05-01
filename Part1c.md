@@ -11,4 +11,10 @@ Doesn’t Microsoft Excel do this already? What makes Power BI different? Ask yo
 - Is there a pricing issue?  
 - How meaningful are visualizations to you or your team?
 
-Both Excel and Power BI can handle all five requirements, but Power BI is a significant upgrade in terms of Data volume, breadth of visualization options, cost, and collaboration.
+Both Excel and Power BI can handle all five requirements, but Power BI is a significant upgrade in terms of Data volume, breadth of visualization options, cost, and collaboration.  
+- Power BI supplies an array of high-level analytics offerings that Excel doesn’t include, such as the ability to create dashboards, key performance indicators (KPI), visualizations, and alerts.
+- Power BI has significant collaboration capabilities, whereas Excel has limited data collaboration options.
+- Though Excel can help when it comes to creating advanced reports, if you want to build data models that include predictive and machine learning assets, you have to turn to specific versions of Power BI.
+- There is no single free version of Excel. On the other hand, you can start with Power BI for free. You can also purchase premium alternatives if you need advanced features.
+
+
