@@ -60,3 +60,10 @@ Though the preparation stage is the most focused and tedious, the entire data li
 Data preparation requires a business analyst to evaluate the business’s needs and a data analyst to construct an appropriate data profile for cleansing and transformation. The data may come from one source or many sources.  
 
 The trick is to determine what is needed to ensure that performance isn’t impacted negatively and to then ensure that the models and reports meet these predetermined requirements. (Requirement examples here would include data and memory volume or perhaps CPU use for processing.) Such processes include gathering data, looking for patterns, and anomalies, and synthesizing the data into meaningful requirements.
+
+**Model:**  
+After data preparation is complete, organizations take this opportunity to model the data. In this context, data modeling can be seen as a process where all those raw pieces of data have been formalized and structured. The goal is to decide how the organized datasets can relate to each other. After you define the relationships, you can then build on the models by creating metrics, calculations, and rule sets.  
+
+The model is a critical component in the data lifecycle. Without a model, the end user cannot produce reports or conduct analyses for an organization. A properly designed model is the key to delivering accurate and trusted results, especially as more organizations begin to work with large datasets.  
+
+Anytime you experience performance issues using Power BI, start by evaluating your model. Examples that may show performance as an issue include report refresh rates taking a bit longer than they should, data loading and preparation lagging, or data rendering from an often-accessed dataset that’s taking a tad too long to query.
