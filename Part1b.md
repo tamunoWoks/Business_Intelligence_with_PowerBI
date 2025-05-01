@@ -77,3 +77,10 @@ Not all visualizations are proper for a dataset. It pays to take the time to ful
 solve, to see whether all data points are necessary. Too much data may make it more difficult to detect key patterns.  
 
 Power BI has built-in AI capabilities that guide the best-fit visualization for reporting without requiring code. Consider using the Questions and Answers feature, trying out the various visualization options, or using Quick Insights to map your data model with the best-fit solution in Power BI.
+
+**Analyze:**  
+No two individuals analyze data in the same way. The analysis task is another step in the process when crafting your data model and interpreting your visualizations. Consider analysis is an activity that often coincides across roles. You may continually have to analyze your data, the model you derived, and your visualization output to make sure that accuracy follows.  
+
+One should ensure accuracy in finding patterns, noticing trends, communicating with others, and even predicting outcomes based on data, even if you find anomalous tendencies. Platforms such as Power BI make data analysis more accessible because the process is simplified for business stakeholders when it comes to completing each one of those tasks.  
+
+Power BI is a desktop solution as well as a cloud-based one. You can do most of your business analysis, data analysis, data modeling, and visualization activities using Power BI Desktop. You can analyze the data on your own using Power BI Desktop, assuming that you’ve connected your data model to the proper data source. However, if you want to share your data or analyze it with others, you must use Power BI Services.
