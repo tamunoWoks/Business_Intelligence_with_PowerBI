@@ -25,4 +25,4 @@ Furthermore, because Power BI can connect with various data sources, the range o
 
 Above all, Power BI is a tool for data visualization and analysis that allows for collaboration. At the same time, Excel limits sharing and data analysis to a limited number of end users.  
 
-
+### Linking Power BI and Azure
