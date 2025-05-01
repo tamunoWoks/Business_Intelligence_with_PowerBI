@@ -47,4 +47,9 @@ Whereas the data engineer or analyst might handle the availability and performan
 
 When you try to sum up who does what in the Power BI data lifecycle, keep these two points in mind:  
 - Your business analyst, data analyst, and data engineer are involved in the creation of data and its manageability. The key words here are ingestion, transformation, validation, cleansing, and creation.
-- Your database administrator, on the other hand, handles the systems which ensure that the data remains healthy. The responsibility isn’t just limited to data reliability, but security as well.
+- Your database administrator, on the other hand, handles the systems which ensure that the data remains healthy. The responsibility isn’t just limited to data reliability, but security as well.  
+
+## Understanding How Data Comes To Life  
+Data takes time to nurture and the focus should be on preparation. As you learn more about the organization’s people, processes, and technologies, your data requirements evolve, and those evolving requirements end up informing your data model. 
+ 
+Ultimately, data management is all encompassing because it overlays every phase of the data lifecycle.
