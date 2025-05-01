@@ -83,4 +83,6 @@ No two individuals analyze data in the same way. The analysis task is another st
 
 One should ensure accuracy in finding patterns, noticing trends, communicating with others, and even predicting outcomes based on data, even if you find anomalous tendencies. Platforms such as Power BI make data analysis more accessible because the process is simplified for business stakeholders when it comes to completing each one of those tasks.  
 
-Power BI is a desktop solution as well as a cloud-based one. You can do most of your business analysis, data analysis, data modeling, and visualization activities using Power BI Desktop. You can analyze the data on your own using Power BI Desktop, assuming that you’ve connected your data model to the proper data source. However, if you want to share your data or analyze it with others, you must use Power BI Services.
+Power BI is a desktop solution as well as a cloud-based one. You can do most of your business analysis, data analysis, data modeling, and visualization activities using Power BI Desktop. You can analyze the data on your own using Power BI Desktop, assuming that you’ve connected your data model to the proper data source. However, if you want to share your data or analyze it with others, you must use Power BI Services.  
+
+**MAnage:**
