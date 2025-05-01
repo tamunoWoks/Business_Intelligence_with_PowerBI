@@ -52,4 +52,11 @@ When you try to sum up who does what in the Power BI data lifecycle, keep these 
 ## Understanding How Data Comes To Life  
 Data takes time to nurture and the focus should be on preparation. As you learn more about the organization’s people, processes, and technologies, your data requirements evolve, and those evolving requirements end up informing your data model. 
  
-Ultimately, data management is all encompassing because it overlays every phase of the data lifecycle.
+Ultimately, data management is all encompassing because it overlays every phase of the data lifecycle.  
+
+**Prepare:**  
+Though the preparation stage is the most focused and tedious, the entire data lifecycle is influenced by preparation.  
+
+Data preparation requires a business analyst to evaluate the business’s needs and a data analyst to construct an appropriate data profile for cleansing and transformation. The data may come from one source or many sources.  
+
+The trick is to determine what is needed to ensure that performance isn’t impacted negatively and to then ensure that the models and reports meet these predetermined requirements. (Requirement examples here would include data and memory volume or perhaps CPU use for processing.) Such processes include gathering data, looking for patterns, and anomalies, and synthesizing the data into meaningful requirements.
