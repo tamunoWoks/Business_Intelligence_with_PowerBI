@@ -11,4 +11,4 @@ Doesn’t Microsoft Excel do this already? What makes Power BI different? Ask yo
 - Is there a pricing issue?  
 - How meaningful are visualizations to you or your team?
 
-
+Both Excel and Power BI can handle all five requirements, but Power BI is a significant upgrade in terms of Data volume, breadth of visualization options, cost, and collaboration.
