@@ -26,3 +26,9 @@ Furthermore, because Power BI can connect with various data sources, the range o
 Above all, Power BI is a tool for data visualization and analysis that allows for collaboration. At the same time, Excel limits sharing and data analysis to a limited number of end users.  
 
 ### Linking Power BI and Azure
+All Microsoft cloud applications ultimately use Azure, the cloud platform that supports storage, security, and application management. With
+so many modern applications requiring analytic outputs, Microsoft recognized that an API could complement its Power BI offerings with Azure. Called Power BI Embedded, this Premium Power BI feature requires an Azure account to be associated with the enterprise license.  
+
+Reports and dashboards published in a Power BI workspace can be deployable via API to a web page or application. With Power BI Embedded, end users don’t need a Power BI Pro license to view the content so long as they embed the targeted content within the Webpage or Web applications.  
+
+Reports and dashboards can be customized to meet user experience specifications at the organization level. Best yet, content can be configured based on user identity and row-level security using Microsoft Azure Active Directory, the cloudbased identity management platform.
