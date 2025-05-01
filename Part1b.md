@@ -85,4 +85,9 @@ One should ensure accuracy in finding patterns, noticing trends, communicating w
 
 Power BI is a desktop solution as well as a cloud-based one. You can do most of your business analysis, data analysis, data modeling, and visualization activities using Power BI Desktop. You can analyze the data on your own using Power BI Desktop, assuming that you’ve connected your data model to the proper data source. However, if you want to share your data or analyze it with others, you must use Power BI Services.  
 
-**MAnage:**
+**Manage:**  
+Power BI, consists of lots of different apps. The outputs produced are plentiful: reports, dashboards, workspaces, datasets, KPIs, and even other apps. On a well organized team, every member usually manages one or more byproducts supporting the management of the Power BI assets, allowing for the sharing and distribution of data.  
+
+Power BI fosters collaboration between teams and individuals. Sharing of content means ensuring that the right stakeholders gain access to the product you’ve created.  
+
+Security can be a bit challenging in large organizations. Your business analyst, data analyst, and data engineer each has a role in making sure that the right people have access to only what they need. The data scientist makes sure that the data assets being created are of high value. And of course, the database administrator ensures that the data house is always open for business by managing the infrastructure that all stakeholders support as part of the data lifecycle for business intelligence using Power BI.
