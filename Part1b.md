@@ -103,4 +103,7 @@ You can produce five types of analytics using Power BI:
 Depending on the business goal and application within Power BI, the analytic products are a bit different. The five types of analytics are described below, including each one’s purpose and where you’ll most likely have success using each analytics type.  
 
 **Descriptive Analysis:**  
-Helps answer questions based on historical data. Descriptive analytics also summarize large datasets and describe outcomes.
+Helps answer questions based on historical data. Descriptive analytics also summarize large datasets and describe outcomes.  
+
+**Diagnostic Analysis:**  
+Explains why events happen. Typically, diagnostic analytics support descriptive analytics as a secondary form of analytics that allows you to discover the cause of events. Analysts look for anomalies in datasets, reports, and KPIs. The use of statistical techniques available within Power BI helps users discover relationships in the data and trends.
