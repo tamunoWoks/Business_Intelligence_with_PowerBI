@@ -100,4 +100,7 @@ You can produce five types of analytics using Power BI:
 - Prescriptive
 - Cognitive.  
 
-Depending on the business goal and application within Power BI, the analytic products are a bit different. The five types of analytics are described below, including each one’s purpose and where you’ll most likely have success using each analytics type.
+Depending on the business goal and application within Power BI, the analytic products are a bit different. The five types of analytics are described below, including each one’s purpose and where you’ll most likely have success using each analytics type.  
+
+**Descriptive:** 
+Helps answer questions based on historical data. Descriptive analytics also summarize large datasets and describe outcomes.
