@@ -14,9 +14,9 @@ Unlike the business analyst, the data analyst does not approach analysis based o
 A data analyst, in addition to managing the data behind the scenes, also has a hands-on role in the management of Power BI assets. When a business analyst is tasked with translating requirements into actual products, the data analyst is thepoint person who acts as the developer. That person addresses the data and reporting requirements by turning raw data into relevant, valuable insights.  
 
 Think of the data analyst as the gatekeeper or as an intermediary between the end user and the:  
-a) Business analyst  
-b) Data engineer  
-c) Database administrators.  
+- Business analyst  
+- Data engineer  
+- Database administrators.  
 
 The database administrator requires that the data analyst be familiar with the data platform and its accompanying security principles, process management, and general management principles.  
 
