@@ -110,4 +110,8 @@ Explains why events happen. Typically, diagnostic analytics support descriptive 
 
 **Predictive Analysis:**  
 Helps answer questions about what might potentially happen in the future. Taking historical trends and finding patterns, the resultant output is an observation of what is likely to occur. Techniques used to derive results involve combinations of statistical methodologies and
-machine learning capabilities available in Power BI.
+machine learning capabilities available in Power BI.  
+
+**Prescriptive Analysis:**  
+Answers the question about which actions one must take to meet a goal. Taking the data gathered, organizations can address issues based on unknown conditions. Such analytics also rely heavily on big data analytics and existing datasets being evaluated by Power BI’s
+machine learning engine to find patterns, which helps deliver on different outcomes.
