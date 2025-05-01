@@ -106,4 +106,8 @@ Depending on the business goal and application within Power BI, the analytic pro
 Helps answer questions based on historical data. Descriptive analytics also summarize large datasets and describe outcomes.  
 
 **Diagnostic Analysis:**  
-Explains why events happen. Typically, diagnostic analytics support descriptive analytics as a secondary form of analytics that allows you to discover the cause of events. Analysts look for anomalies in datasets, reports, and KPIs. The use of statistical techniques available within Power BI helps users discover relationships in the data and trends.
+Explains why events happen. Typically, diagnostic analytics support descriptive analytics as a secondary form of analytics that allows you to discover the cause of events. Analysts look for anomalies in datasets, reports, and KPIs. The use of statistical techniques available within Power BI helps users discover relationships in the data and trends.  
+
+**Predictive Analysis:**  
+Helps answer questions about what might potentially happen in the future. Taking historical trends and finding patterns, the resultant output is an observation of what is likely to occur. Techniques used to derive results involve combinations of statistical methodologies and
+machine learning capabilities available in Power BI.
