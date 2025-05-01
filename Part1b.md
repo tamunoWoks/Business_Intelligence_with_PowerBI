@@ -114,4 +114,9 @@ machine learning capabilities available in Power BI.
 
 **Prescriptive Analysis:**  
 Answers the question about which actions one must take to meet a goal. Taking the data gathered, organizations can address issues based on unknown conditions. Such analytics also rely heavily on big data analytics and existing datasets being evaluated by Power BI’s
-machine learning engine to find patterns, which helps deliver on different outcomes.
+machine learning engine to find patterns, which helps deliver on different outcomes.  
+
+**Cognitive Analytics:**  
+Referred to at times as inferential analytics; lets the analyst pull together data from across the datasets to detect patterns, develop conclusions, and set up a knowledge bank for future learning. The keyword here is future because what is learned and seen is used to self-guide for the future.  
+
+If conditions change, the knowledge bank adjusts accordingly. Because inferences are unstructured thoughts and hypotheses, it’s up to machine learning solutions within Power BI to process the data change, make sense of the existing data sources, and create data correlations.
