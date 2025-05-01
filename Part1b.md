@@ -66,4 +66,14 @@ After data preparation is complete, organizations take this opportunity to model
 
 The model is a critical component in the data lifecycle. Without a model, the end user cannot produce reports or conduct analyses for an organization. A properly designed model is the key to delivering accurate and trusted results, especially as more organizations begin to work with large datasets.  
 
-Anytime you experience performance issues using Power BI, start by evaluating your model. Examples that may show performance as an issue include report refresh rates taking a bit longer than they should, data loading and preparation lagging, or data rendering from an often-accessed dataset that’s taking a tad too long to query.
+Anytime you experience performance issues using Power BI, start by evaluating your model. Examples that may show performance as an issue include report refresh rates taking a bit longer than they should, data loading and preparation lagging, or data rendering from an often-accessed dataset that’s taking a tad too long to query.  
+
+**Visualize:**  
+Visualizing data helps organizations better understand business problems in ways that plain text can’t convey. The old saying “A picture is worth a thousand words” surely applies here. Visualization can make data come alive. It tells compelling stories, enabling business decision-makers to gain needed insights reasonably quickly.  
+
+A good BI solution such as Power BI incorporates many visualization options that make report outputs easier for decision-makers to understand. The visualizations aggregate the data to guide the professional through the dataset quickly. Reports built on these visualizations can be crucial aids when it comes to driving decision-making actions and behaviors in an organization. Given that many organizations don’t even look at the structured dataset, never mind the raw data that the business or data analyst spends so much time evaluating as part of the preparation and data modeling stage.  
+
+Not all visualizations are proper for a dataset. It pays to take the time to fully understand the business problem you’re trying to
+solve, to see whether all data points are necessary. Too much data may make it more difficult to detect key patterns.  
+
+Power BI has built-in AI capabilities that guide the best-fit visualization for reporting without requiring code. Consider using the Questions and Answers feature, trying out the various visualization options, or using Quick Insights to map your data model with the best-fit solution in Power BI.
