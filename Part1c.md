@@ -17,4 +17,12 @@ Both Excel and Power BI can handle all five requirements, but Power BI is a sign
 - Though Excel can help when it comes to creating advanced reports, if you want to build data models that include predictive and machine learning assets, you have to turn to specific versions of Power BI.
 - There is no single free version of Excel. On the other hand, you can start with Power BI for free. You can also purchase premium alternatives if you need advanced features.
 
+In summary, Power BI integrates business intelligence (BI) and data visualization so that users can create custom and interactive dashboards, KPIs, and reports. Simultaneously, Microsoft Excel is limited in handling data analytics, mathematical operations, or data organization using a spreadsheet.  
+
+Power BI can extract and format data from more than a single data source type. Because Power BI handles extensive data ingestion the process is, by nature, much faster.  
+
+Furthermore, because Power BI can connect with various data sources, the range of outputs, including dashboards and reports, is more interactive, whereas Excel is limited in scope.  
+
+Above all, Power BI is a tool for data visualization and analysis that allows for collaboration. At the same time, Excel limits sharing and data analysis to a limited number of end users.  
+
 
