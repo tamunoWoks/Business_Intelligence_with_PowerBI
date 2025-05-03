@@ -56,9 +56,11 @@ The enterprise paid version comes in two editions: per user and capacity.
 Intended to be a complementary product to manage reports, dashboards, and KPIs on the go, Power BI Mobile has limited, if any, authoring capabilities. Your ability to collaborate on Mobile varies depending on your license authorization.  
 
 **Power BI Embedded:**  
-This version offers a way to integrate real-time reports on public- or private-facing products using the Power BI API service in Microsoft Azure.
+This version offers a way to integrate real-time reports on public- or private-facing products using the Power BI API service in Microsoft Azure.  
 
-
+**Power BI Report Server:**  
+A server-based Power BI product intended to produce reporting output offline, its users store their reports on a server, not online. Note that you must still procure some form of Premium license, either stand-alone or using a Software Assurance subscription (an enterprise-based
+software plan).
 
 
 
