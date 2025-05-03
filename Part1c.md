@@ -33,7 +33,9 @@ You can choose from four product license options:
 - Power BI Free
 - Power BI Pro
 - Power BI Premium.  
-Some of these products are included with all three product licensing options, whereas others are specific to either the Pro or Premium version. Let’s review each product license:
+
+Some of these products are included with all three product licensing options, whereas others are specific to either the Pro or Premium version.  
+Let’s review each product license:
 
 
 
