@@ -42,7 +42,7 @@ The free desktop version of Power Bi allows a user to author reports and data an
 **Power BI Free:**  
 Considered the entry-level free cloud version, this version lets you author and store reports online versus the desktop. The only drawback is storage capacity, limited to 1GB, and no collaboration.  
 
-**Power BI Pro:** 
+**Power BI Pro:**  
 The entry-level paid version of Power BI gets you a larger storage allocation, limited to 100GB, as well as the ability to collaborate with Pro licensed users.
 
 
