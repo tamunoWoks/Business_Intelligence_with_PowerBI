@@ -38,6 +38,7 @@ Some of these products are included with all three product licensing options, wh
 
 **Power BI Desktop:**  
 The free desktop version of Power Bi allows a user to author reports and data analytics inputs without publishing them to the Internet. If you want to collaborate and share your desktop output, however, you have to switch to either the Pro or Premium version.  
+
 **Power BI Free:**  
 Considered the entry-level free cloud version, this version lets you author and store reports online versus the desktop. The only drawback is storage capacity, limited to 1GB, and no collaboration.
 
