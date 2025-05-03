@@ -50,7 +50,7 @@ The enterprise paid version comes in two editions: per user and capacity.
 
 *Per-user* licensing is intended for those with big data aspirations who also need massive storage scale but who have no global distribution requirements.  
 
-*Capacity* is useful for an enterprise that intends to have many users. Keep in mind one catch with capacity licensing: You also need to procure Pro licenses because what you’re paying for is the storage and security — Pro’s killer feature.
+*Capacity* is useful for an enterprise that intends to have many users. Keep in mind one catch with capacity licensing: You also need to procure Pro licenses because what you’re paying for is the storage and security.
 
 
 
