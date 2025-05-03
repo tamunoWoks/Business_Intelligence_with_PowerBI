@@ -53,7 +53,10 @@ The enterprise paid version comes in two editions: per user and capacity.
 *Capacity* is useful for an enterprise that intends to have many users. Keep in mind one catch with capacity licensing: You also need to procure Pro licenses because what you’re paying for is the storage and security.  
 
 **Power BI Mobile:**  
-Intended to be a complementary product to manage reports, dashboards, and KPIs on the go, Power BI Mobile has limited, if any, authoring capabilities. Your ability to collaborate on Mobile varies depending on your license authorization.
+Intended to be a complementary product to manage reports, dashboards, and KPIs on the go, Power BI Mobile has limited, if any, authoring capabilities. Your ability to collaborate on Mobile varies depending on your license authorization.  
+
+**Power BI Embedded:**  
+This version offers a way to integrate real-time reports on public- or private-facing products using the Power BI API service in Microsoft Azure.
 
 
 
