@@ -36,7 +36,8 @@ You can choose from four product license options:
 
 Some of these products are included with all three product licensing options, whereas others are specific to either the Pro or Premium version.  
 Let’s review each product license:
-
+#### Power BI Desktop: 
+The free desktop version of Power Bi allows a user to author reports and data analytics inputs without publishing them to the Internet. If you want to collaborate and share your desktop output, however, you have to switch to either the Pro or Premium version.
 
 
 
