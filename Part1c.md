@@ -26,7 +26,14 @@ Furthermore, because Power BI can connect with various data sources, the range o
 Above all, Power BI is a tool for data visualization and analysis that allows for collaboration. At the same time, Excel limits sharing and data analysis to a limited number of end users.  
 
 ### Power BI license options
-Licensing refers to the products a customer is procuring, whereas version deals with where Power BI runs: on a desktop, from a server, or in the cloud. One or more Power BI products may be required in order to fully support deployments of Power BI. In some cases, you may require a hybrid solution of desktop and online versions of the product.
+Licensing refers to the products a customer is procuring, whereas version deals with where Power BI runs: on a desktop, from a server, or in the cloud. One or more Power BI products may be required in order to fully support deployments of Power BI. In some cases, you may require a hybrid solution of desktop and online versions of the product.  
+
+You can choose from four product license options: 
+- Power BI Desktop
+- Power BI Free
+- Power BI Pro
+- Power BI Premium.  
+Some of these products are included with all three product licensing options, whereas others are specific to either the Pro or Premium version. Let’s review each product license:
 
 
 
