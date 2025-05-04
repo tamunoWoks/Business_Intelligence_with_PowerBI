@@ -12,3 +12,5 @@ The end user gains access to three distinct views in Power BI Desktop: Report, D
 You can create reports and visualizations after you’ve ingested and modeled the data. Users spend most of their time here post-data ingestion, transformation, and modeling.
 - **Data:**
 You can find all data ingested, or migrated, from tables, measures, and data sources associated with reports and visualizations created here. Sources can be local to the desktop or from a third-party data source accessible over the web.
+- **Model:**
+Like creating a relational data model in Microsoft SQL Server, Azure SQL Server, or even Microsoft Access, you can fully manage the relationships among the structured tables you’ve created after you’ve ingested the necessary data using Power BI.
