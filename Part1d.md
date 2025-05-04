@@ -51,3 +51,4 @@ With BI solutions such as Power BI, users are able to streamline business issues
 using a formulaic approach without having to reinvent queries or
 rebuild datasets.
 - **Management:** Business users are in a position to manage the data on their own after models are built. Seldom is a database expert or technical professional needed to handle infrastructure requirements.
+- **Adaptive models:** You can build a logical model with minimum code. Changes are commodative to technical and business requirements, including the use of measures (formulas) and rule sets.
