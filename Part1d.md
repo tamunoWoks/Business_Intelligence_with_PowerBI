@@ -45,3 +45,8 @@ Power BI is a data-model-based reporting tool. These are the key characteristics
 - Tables hold meaningful data.
 - Relationships exist between the loaded tables with data.
 - Formulas, also known as measures, apply business rules to the raw data to extract, transform, and load data to create meaningful business insights.
+
+With BI solutions such as Power BI, users are able to streamline business issues with a data model. To summarize, models are useful for these reasons:  
+- **Reusability:** Users can solve a reporting requirement or business challenge
+using a formulaic approach without having to reinvent queries or
+rebuild datasets.
