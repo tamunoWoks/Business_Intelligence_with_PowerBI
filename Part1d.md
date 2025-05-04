@@ -8,3 +8,4 @@ A typical usage of Power BI Desktop is:
 
 Though you can complete these activities online, the Desktop platform is purpose-built for individual user consumption or development work. It isn’t intended for groups and not until the user is ready to share the products created using Desktop do you need to expose anything to Power BI Services.  
 The end user gains access to three distinct views in Power BI Desktop: Report, Data and Model. Each Power BI Desktop view carries out specific tasks:  
+- **Report:** You can create reports and visualizations after you’ve ingested and modeled the data. Users spend most of their time here post-data ingestion, transformation, and modeling.
