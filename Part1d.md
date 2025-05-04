@@ -39,3 +39,9 @@ If you want to explore a plethora of data sources beyond those offered by Micros
 When it comes to data ingestion, “dataset” and “data source” are treated the same, even though they’re actually just distant relatives that support the same mission. You create a dataset in Power BI whenever you use the Get Data feature. It’s what allows you to connect and import data, including from live data sources.  
 
 A dataset stores all the details about the data source and its security credentials. A data source is where all the data stored in the dataset is derived, which can be a proprietary application data source, a relational database, or a stand-alone file storage alternative such as a hard drive or file share.
+
+## Building Data Models  
+Power BI is a data-model-based reporting tool. These are the key characteristics of data models:  
+- Tables hold meaningful data.
+- Relationships exist between the loaded tables with data.
+- Formulas, also known as measures, apply business rules to the raw data to extract, transform, and load data to create meaningful business insights.
