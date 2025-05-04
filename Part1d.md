@@ -41,7 +41,9 @@ When it comes to data ingestion, “dataset” and “data source” are treated
 A dataset stores all the details about the data source and its security credentials. A data source is where all the data stored in the dataset is derived, which can be a proprietary application data source, a relational database, or a stand-alone file storage alternative such as a hard drive or file share.
 
 ## Building Data Models  
-Power BI is a data-model-based reporting tool. These are the key characteristics of data models:  
+Power BI is a data-model-based reporting tool. A data model is a reusable asset that, when tweaked a little depending on the business need, can dramatically reduce development efforts and cut costs.  
+
+Sometimes, you get lucky and can build new assets on top of the existing solution. At other times, recycling the asset with a few enhancements can score you the desired results. These are the key characteristics of data models:  
 - Tables hold meaningful data.
 - Relationships exist between the loaded tables with data.
 - Formulas, also known as measures, apply business rules to the raw data to extract, transform, and load data to create meaningful business insights.
