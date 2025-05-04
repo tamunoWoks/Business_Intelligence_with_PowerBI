@@ -18,4 +18,9 @@ Like creating a relational data model in Microsoft SQL Server, Azure SQL Server,
 ### Ingesting Data  
 Each dataset comes from a particular data source, either found on your local desktop or acquired from other online data sources. These sources may be Microsoft-based applications, a third-party database, or even other application data feeds.  
 
-In Power BI Desktop, you either use the Power BI Ribbon or click the Power BI Data Navigation icon, to access a data source.
+In Power BI Desktop, you either use the Power BI Ribbon or click the Power BI Data Navigation icon, to access a data source.  
+
+### Files or Databases?  
+In Power BI, you can create or import content yourself. When it comes to the type of content users can create or import, it boils down to either files or data stored in a database. Files can be a bit more complicated than databases.  
+
+You need to get the data, transform the data, and then import the data into a readable form. Suppose that you want to import an Excel or .csv file that includes many data types. First, you load the data into Power BI. Then you format the data into a Power BI-ready format in conjunction with dataflows, which transforms the data to support a data model. Finally, you query the data using the Get and Transform feature in Power Query.
