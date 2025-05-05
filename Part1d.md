@@ -65,3 +65,4 @@ You eventually want to get to a point in your use of Power BI where you can rapi
 visual.)  
 
 ### Creating and publishing items
+If you want to post that data project on the web in a read-only format to a limited audience. And you certainly can for free. Suppose, however, that you want others to edit and collaborate with you beyond read-only support. In that case, you must pay for such features.
