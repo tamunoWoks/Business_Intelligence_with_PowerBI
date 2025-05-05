@@ -67,4 +67,6 @@ visual.)
 ### Creating and publishing items
 If you want to post that data project on the web in a read-only format to a limited audience. And you certainly can for free. Suppose, however, that you want others to edit and collaborate with you beyond read-only support. In that case, you must pay for such features.  
 
-When you publish items from Power BI Desktop to Power BI Services, the files are workspace bound. Similarly, if you’ve produced any reports, they appear in Report view. Datasets migrate from the desktop with the same name, as do any reports to the workspace. The relationship is often a one-to-one relationship, with rare exceptions.
+When you publish items from Power BI Desktop to Power BI Services, the files are workspace bound. Similarly, if you’ve produced any reports, they appear in Report view. Datasets migrate from the desktop with the same name, as do any reports to the workspace. The relationship is often a one-to-one relationship, with rare exceptions.  
+
+In Power BI Desktop, you can publish your files by choosing Publish ➪ Publish to Power BI from the main menu or selecting Publish on the Ribbon.
