@@ -61,3 +61,6 @@ engineer.
 
 Once the data source has been cleaned up and you’ve mapped the data into refined datasets, it’s time to create the necessary visualizations, pictures that can serve as examples of your data sources — charts, maps, indicators, and gauges. You’ll find these visuals in deliverables such as reports and dashboards. Even the Q&A feature in Power BI produces visuals after you ask focused questions.  
 
+You eventually want to get to a point in your use of Power BI where you can rapidly generate reports and access data using dashboards. A Power BI designer builds out dashboard visualizations, referred to as tiles, using data in reports and datasets. A user can build their own dashboards for personal use or share the dashboard with others. (Note: If you share dashboards, security credentials are tied to each
+visual.)  
+
