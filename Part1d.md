@@ -56,3 +56,5 @@ rebuild datasets.
 - **Adaptive models:** You can build a logical model with minimum code. Changes are commodative to technical and business requirements, including the use of measures (formulas) and rule sets.
 
 ## Analyzing Data
+Before sharing any data with a team, you first have to carry out your own, personal data analysis using Power BI Desktop. You can conduct several forms of analysis. At the most basic level, when the data enters the system, you have to review it to make sure it looks right and appears as it should. If it doesn’t, you manipulate the data by cleansing it, a task often carried out by an analyst or
+engineer.
