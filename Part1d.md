@@ -69,4 +69,6 @@ If you want to post that data project on the web in a read-only format to a limi
 
 When you publish items from Power BI Desktop to Power BI Services, the files are workspace bound. Similarly, if you’ve produced any reports, they appear in Report view. Datasets migrate from the desktop with the same name, as do any reports to the workspace. The relationship is often a one-to-one relationship, with rare exceptions.  
 
-In Power BI Desktop, you can publish your files by choosing Publish ➪ Publish to Power BI from the main menu or selecting Publish on the Ribbon.
+In Power BI Desktop, you can publish your files by choosing Publish ➪ Publish to Power BI from the main menu or selecting Publish on the Ribbon.  
+
+When you publish an item from the Power BI Desktop to Services, you’re performing the same action as using the Get Data feature. That means connecting to a data source, uploading a file from Power BI Desktop, and sending it to Services.
