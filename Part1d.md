@@ -57,4 +57,7 @@ rebuild datasets.
 
 ## Analyzing Data
 Before sharing any data with a team, you first have to carry out your own, personal data analysis using Power BI Desktop. You can conduct several forms of analysis. At the most basic level, when the data enters the system, you have to review it to make sure it looks right and appears as it should. If it doesn’t, you manipulate the data by cleansing it, a task often carried out by an analyst or
-engineer.
+engineer.  
+
+Once the data source has been cleaned up and you’ve mapped the data into refined datasets, it’s time to create the necessary visualizations, pictures that can serve as examples of your data sources — charts, maps, indicators, and gauges. You’ll find these visuals in deliverables such as reports and dashboards. Even the Q&A feature in Power BI produces visuals after you ask focused questions.  
+
