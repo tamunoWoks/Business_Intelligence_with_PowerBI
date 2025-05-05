@@ -71,4 +71,6 @@ When you publish items from Power BI Desktop to Power BI Services, the files are
 
 In Power BI Desktop, you can publish your files by choosing Publish ➪ Publish to Power BI from the main menu or selecting Publish on the Ribbon.  
 
-When you publish an item from the Power BI Desktop to Services, you’re performing the same action as using the Get Data feature. That means connecting to a data source, uploading a file from Power BI Desktop, and sending it to Services.
+When you publish an item from the Power BI Desktop to Services, you’re performing the same action as using the Get Data feature. That means connecting to a data source, uploading a file from Power BI Desktop, and sending it to Services.  
+
+Saving in Power BI Services doesn’t make changes to the original Power BI Desktop file. Therefore, don’t expect any updates when you or your colleagues add, delete, or change any dataset, visualization, or report.
