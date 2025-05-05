@@ -76,4 +76,6 @@ When you publish an item from the Power BI Desktop to Services, you’re perform
 Saving in Power BI Services doesn’t make changes to the original Power BI Desktop file. Therefore, don’t expect any updates when you or your colleagues add, delete, or change any dataset, visualization, or report.
 
 ## Power BI Services
-Services aren’t intended for a single user, whereas Desktop supports individual usage exclusively. The purpose of Services is to allow the individual user to publish data from the desktop and then share it with user groups.
+Services aren’t intended for a single user, whereas Desktop supports individual usage exclusively. The purpose of Services is to allow the individual user to publish data from the desktop and then share it with user groups.  
+
+The Desktop user can continually update their data product, whether it is a dataset, data model, or report, after they publish it online using Power BI Services. However, Power BI Services doesn’t refresh the data at the desktop level. Therefore, it’s up to you to keep data in sync.
