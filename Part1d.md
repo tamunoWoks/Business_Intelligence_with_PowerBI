@@ -55,7 +55,7 @@ rebuild datasets.
 - **Management:** Business users are in a position to manage the data on their own after models are built. Seldom is a database expert or technical professional needed to handle infrastructure requirements.
 - **Adaptive models:** You can build a logical model with minimum code. Changes are commodative to technical and business requirements, including the use of measures (formulas) and rule sets.
 
-## Analyzing Data
+### Analyzing Data
 Before sharing any data with a team, you first have to carry out your own, personal data analysis using Power BI Desktop. You can conduct several forms of analysis. At the most basic level, when the data enters the system, you have to review it to make sure it looks right and appears as it should. If it doesn’t, you manipulate the data by cleansing it, a task often carried out by an analyst or
 engineer.  
 
@@ -64,3 +64,4 @@ Once the data source has been cleaned up and you’ve mapped the data into refin
 You eventually want to get to a point in your use of Power BI where you can rapidly generate reports and access data using dashboards. A Power BI designer builds out dashboard visualizations, referred to as tiles, using data in reports and datasets. A user can build their own dashboards for personal use or share the dashboard with others. (Note: If you share dashboards, security credentials are tied to each
 visual.)  
 
+### Creating and publishing items
