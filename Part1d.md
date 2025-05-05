@@ -78,4 +78,6 @@ Saving in Power BI Services doesn’t make changes to the original Power BI Desk
 ## Power BI Services
 Services aren’t intended for a single user, whereas Desktop supports individual usage exclusively. The purpose of Services is to allow the individual user to publish data from the desktop and then share it with user groups.  
 
-The Desktop user can continually update their data product, whether it is a dataset, data model, or report, after they publish it online using Power BI Services. However, Power BI Services doesn’t refresh the data at the desktop level. Therefore, it’s up to you to keep data in sync.
+The Desktop user can continually update their data product, whether it is a dataset, data model, or report, after they publish it online using Power BI Services. However, Power BI Services doesn’t refresh the data at the desktop level. Therefore, it’s up to you to keep data in sync.  
+
+Services offers four significant product features beyond Desktop for multiuser access that Desktop doesn’t support: the ability to view and edit reports, access to dashboards based on credentials, collaboration among users, and data refresh options depending on product type purchased.
