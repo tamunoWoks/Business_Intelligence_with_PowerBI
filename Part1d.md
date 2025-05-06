@@ -163,4 +163,16 @@ Power BI offers several modes for allowing access to data in a dataset:
 ### Data refresh types
 For a Power BI user, data refreshes are defined as importing data from the original data sources into one or more datasets. The refresh is based on a schedule or can be in real time. Depending on the procured Power BI license, the refresh rate varies from 8 updates to as many as 48 per day. You’re limited to 8 daily dataset refreshes for shared capacity, which are executed by the schedule using a plan. The updates reset daily at 12:01 AM.  
 
-A Power BI refresh operation can have multiple refresh types, including a standard data refresh, OneDrive refresh, query cache refresh, tile refresh, dashboard refresh, and course visualization refresh. Power BI decides the individual refresh steps with each of these examples. A precedence must be applied based on operational complexity.
+A Power BI refresh operation can have multiple refresh types, including a standard data refresh, OneDrive refresh, query cache refresh, tile refresh, dashboard refresh, and course visualization refresh. Power BI decides the individual refresh steps with each of these examples. A precedence must be applied based on operational complexity.  
+
+Regardless of the refresh approach, you must ensure that reports and dashboards use current data for a business to be successful. If, for some reason, you find that your data is stale, address the problem with the data owner or the gateway administrator.  
+When refreshing data, keep the following points in mind:
+- For optimal performance, schedule refresh cycles for off-peak business hours, especially if you use Power BI Premium.
+- Consider the number of refreshes your organization is allowed with your license and the volatility of your data. Refresh only when you know it makes sense.
+- Make sure the dataset refresh doesn’t exceed the refresh duration, or else the data won’t refresh properly, causing business issues with your options.
+- Optimize your data by including only the data needed to operate in the environment necessary for your reports and dashboards. Any extra overhead
+can be costly, especially when it comes to memory and processing overhead consumption.
+- Apply the appropriate security settings for both Power BI Desktop and Power BI Services. The settings don’t carry over from one environment to another.
+- Be mindful of the visuals used as more outputs result in performance degradation and potential data refresh issues down the line.
+- Use only reliable data gateways to connect data sources, whether on-premise or cloud-based. If data refresh failures happen, you may need to deploy additional infrastructure to handle needed capacity.
+- If data refresh failures happen, put a notification method in place so that you can quickly deal with any technical concerns.
