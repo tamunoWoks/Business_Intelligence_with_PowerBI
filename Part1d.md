@@ -130,3 +130,7 @@ To access reports from an app, you need to navigate to the app source. Here’s 
 4. Click the Get it Now button.
 5. On the new page that appears, choose Continue ➪ Install to install the app in the Apps canvas.
 6. Open the app in the Apps canvas or Home canvas.
+
+You can also open reports from a dashboard. Most times, a tile is a snapshot of a pinned report. When you double-click the tile, a report will open. To open a report from a dashboard, follow these steps:  
+1. From the dashboard, select any tile.
+2. Drill down into a more granular view of the report data by clicking on data points within a report.
