@@ -106,11 +106,13 @@ Within the framework of these two scenarios, access might come about as
 - Reports shared directly, for example, by email
 - Reports shared as part of an app
 - Reports accessible from the dashboard.
-- Recent or favorite reports, dashboards, apps, and workspaces accessible from the Services Navigation pane.  
+- Recent or favorite reports, dashboards, apps, and workspaces accessible from the Services Navigation pane.
+
 Among these options, the three most common ways users view and edit reports when collaborating are:
 a. Sharing directly.  
 b. Sharing as part of an app.  
 c. Accessing the dashboard.  
+
 To open a report that is shared with you, follow these steps:
 1. Open Power BI Services, located at https://app.powerbi.com.
 2. Select Home in the Navigation pane. (The Home canvas appears)
