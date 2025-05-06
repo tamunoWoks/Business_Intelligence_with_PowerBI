@@ -81,3 +81,11 @@ Services aren’t intended for a single user, whereas Desktop supports individua
 The Desktop user can continually update their data product, whether it is a dataset, data model, or report, after they publish it online using Power BI Services. However, Power BI Services doesn’t refresh the data at the desktop level. Therefore, it’s up to you to keep data in sync.  
 
 Services offers four significant product features beyond Desktop for multiuser access that Desktop doesn’t support: the ability to view and edit reports, access to dashboards based on credentials, collaboration among users, and data refresh options depending on product type purchased.
+
+### Viewing and editing reports
+The report lifecycle generally begins when a user sets up a dataset and builds a functional data model in Power BI Desktop. The user also crafts one or more reports. Once a report is developed, you can then publish it to Power BI Services. The workflow is typical, as refinement with complex data makes it easier to build a report deliverable offline. You can assume that you don’t need an Internet connection to access the dataset.  
+
+Sometimes you might require online services access because you have large datasets from third-party applications. Everyday use cases include when you have a subscription to CRM or ERP solutions requiring data connections. Assuming that you are part of an organization and have access to a service (SaaS) app, you’ll find someone in your organization whose job it is to publish apps. That person generally
+distributes the app, granting you access to specific features and data. With Power BI Services, you connect to these apps to generate reports specific to your business need.  
+
+Though you can directly connect to data sources such as databases, files, and folders in Power BI Desktop, applications are different. You need Power BI Services to access app data.
