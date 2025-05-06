@@ -89,3 +89,9 @@ Sometimes you might require online services access because you have large datase
 distributes the app, granting you access to specific features and data. With Power BI Services, you connect to these apps to generate reports specific to your business need.  
 
 Though you can directly connect to data sources such as databases, files, and folders in Power BI Desktop, applications are different. You need Power BI Services to access app data.
+
+### Sharing your results
+Once you create reports or dashboards, you can share them with users who are given Power BI Services accounts. The type of license in force dictates how the user can interact with the data. Some users may be able to view only the reports and dashboards, and others may be able to collaborate fully. For you and your colleagues to manage a report or dashboard, a workspace may be established. You bundle and distribute
+the deliverable as an app. Once you share the dataset, it becomes the basis for a new set of dashboards or reports.  
+
+A Power BI report, by default, supplies a holistic view of a dataset. It has visuals representing findings from one or more datasets. Reports may hold a single visualization or many.
