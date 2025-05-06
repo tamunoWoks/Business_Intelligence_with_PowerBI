@@ -117,4 +117,16 @@ To open a report that is shared with you, follow these steps:
 1. Open Power BI Services, located at https://app.powerbi.com.
 2. Select Home in the Navigation pane. (The Home canvas appears)
 3. Click the Shared with Me icon.
-4. Then, select a report found on the Shared with Me page.  
+4. Then, select a report found on the Shared with Me page.
+
+The second choice is receiving an app from someone directly or accessing the app using Microsoft’s AppSource. You access these apps either from the Power BI home screen or from the Apps and Shared with Me items found on the Navigation pane.  
+
+Someone who wants to open an app must first either acquire a Power BI Pro license or have an app workspace stored in a Power BI Premium capacity.  
+
+To access reports from an app, you need to navigate to the app source. Here’s one example of how you’d do it:  
+1. Point your browser to the app source’s location, such as https://appsource.microsoft.com.
+2. Select the Power Platform check box.
+3. Using the Search box at the top of the screen, search for Microsoft sample Sales and Marketing.
+4. Click the Get it Now button.
+5. On the new page that appears, choose Continue ➪ Install to install the app in the Apps canvas.
+6. Open the app in the Apps canvas or Home canvas.
