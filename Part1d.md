@@ -134,3 +134,9 @@ To access reports from an app, you need to navigate to the app source. Here’s 
 You can also open reports from a dashboard. Most times, a tile is a snapshot of a pinned report. When you double-click the tile, a report will open. To open a report from a dashboard, follow these steps:  
 1. From the dashboard, select any tile.
 2. Drill down into a more granular view of the report data by clicking on data points within a report.
+
+### Working with dashboards
+A dashboard lets you tell a story from a series of visualizations. A dashboard must be well designed, because it contains the critical highlights so that a reader can drill down into related reports and view
+details later.  
+
+Dashboards are available only with Power BI Services. You can create dashboards with a Power BI Free license, but this feature isn’t integrated into Power BI Desktop. Therefore, once you build your reports in Power BI Desktop, you need to publish outputs to Power BI Services. Keep in mind as well that, although dashboards can be created only on a desktop-based computer, you can view and share dashboards on all device form-factors, including Power BI Mobile. When you want to create a dashboard, you need to have at least one or more reports pinned to a blank canvas. Each tile represents a single report based on a single dataset.
