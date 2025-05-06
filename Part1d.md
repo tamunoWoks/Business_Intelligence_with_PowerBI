@@ -98,3 +98,21 @@ A Power BI report, by default, supplies a holistic view of a dataset. It has vis
 
 ### Why reports are valuable
 The basis of a report is a single dataset, whereas a dashboard collects many reports. With reports, you get a laser-focused view of a topic. Moreover, data is static in a non-data-model-based application; such is not the case in a tool such as Power BI. The visuals are dynamic because, as the underlying data updates, so do the reports in real time. In addition, a user is free to interact with the visuals as little or as much as they want in a report. They can also use reports to filter and query in a variety of different ways within Power BI. Reports are highly interactive and even customizable based on your organizational role and responsibility.
+
+### Accessing reports from many directions
+You should consider two basic scenarios when it comes to report access: Either you created the report yourself and imported it from Power BI Desktop or someone has shared a report with you. Any report that you imported is on your My Workspace.  
+
+Within the framework of these two scenarios, access might come about as  
+- Reports shared directly, for example, by email
+- Reports shared as part of an app
+- Reports accessible from the dashboard.
+- Recent or favorite reports, dashboards, apps, and workspaces accessible from the Services Navigation pane.  
+Among these options, the three most common ways users view and edit reports when collaborating are:
+a. Sharing directly 
+b. Sharing as part of an app 
+c. Accessing the dashboard.
+To open a report that is shared with you, follow these steps:
+1. Open Power BI Services, located at https://app.powerbi.com.
+2. Select Home in the Navigation pane. (The Home canvas appears)
+3. Click the Shared with Me icon.
+4. Then, select a report found on the Shared with Me page.  
