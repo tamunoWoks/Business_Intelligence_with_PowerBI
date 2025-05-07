@@ -9,4 +9,6 @@ over 100 data connectors. The most popular options include files, databases, and
 You can find a list of all available data sources at `https://docs.microsoft.com/en-us/power-bi/connect-data/powerbi-
 data-sources`.  
 
-To correctly map your data in Power BI, you must determine the exact nature of the data. For example, would you use the Excel Connector if the document type were meant for an Azure SQL database?
+To correctly map your data in Power BI, you must determine the exact nature of the data. For example, would you use the Excel Connector if the document type were meant for an Azure SQL database?  
+
+When you load data into Power BI Desktop, the data is stored as a snapshot in time. To ensure that you view the latest data, you click the Refresh Preview button on the home screen every so often.
