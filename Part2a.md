@@ -53,7 +53,7 @@ Though the steps outlined here may seem easy, they might become laborious becaus
 want to consider an alternative option where you can change the source location all at once rather than tackle each query independently.  
 
 **Follow these steps for the other method:**
-- On the Power Query Editor’s Home tab, click the Data Source Settings button.  
+- On the Power Query Editor’s Home tab, click the Data Source Settings button:  
 *A new window opens to make the source location change.*
 - Select all files requiring a change in location by choosing Change Source.
 - Make the changes you want to the source location.
