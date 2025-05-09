@@ -102,4 +102,7 @@ Two alternatives exist with database connectivity:
 You can also use one of two other methods:  
 1. **Live Connection:** Here the goal is to use the analysis services integrated with Power BI Desktop or Power BI Services. Live Connection also supports calculation-based activities that occur within a data model.
 2. **Composite models:** Suppose that a user must combine both importing data and DirectQuery, or there is a requirement to connect to multiple DirectQuery connections. In that case, you apply a composite model.
-You face some risks, though, when dealing with model security. Suppose, for example, you open a Power Bi Desktop file that is sent from an untrusted source. If the file contains a composite model, the information that someone retrieves from a single source using credentials from a user opening the file can be sent to another data source as part of the newly formed query. Therefore, it’s vital to ensure that your data sources are correctly assigned to only those who need access to the sources.
+You face some risks, though, when dealing with model security. Suppose, for example, you open a Power Bi Desktop file that is sent from an untrusted source. If the file contains a composite model, the information that someone retrieves from a single source using credentials from a user opening the file can be sent to another data source as part of the newly formed query. Therefore, it’s vital to ensure that your data sources are correctly assigned to only those who need access to the sources.  
+
+#### Dual Mode
+The four storage modes — local storage, DirectQuery, Live Connection, and composite models — have data housed in a single location. It’s either local to the user or bound to some server on a network in a data center or the cloud.
