@@ -95,3 +95,6 @@ However, you can tell whether your dataset is shared or local by looking in the 
 You can consume data in many ways using Power BI Desktop and Power BI Services. The most common method is to import data into a data model. By importing the data in Power BI, you’re copying the dataset locally until you commit to a data refresh. Though data files and folders can only be imported into Power BI, databases allow you to use a connection that
 supports more flexibility.  
 
+Two alternatives exist with database connectivity:  
+- **Import the data locally:** This supports data model caching as well as the ability to reduce number of connections and lookups. By ingesting the model, a user can use all Desktop features offered with Power BI.  
+- **Create a connection to the data source with DirectQuery:** With this feature, the data isn’t cached. Instead, the data source must be queried each time a data call is required. Most, but not all, data sources support DirectQuery.
