@@ -68,3 +68,5 @@ You can find many other benefits to using a shared dataset over a local dataset,
 - Reduction in dataset copying due to centralization of a data source
 - The ability to create new data sources from existing sources with little effort.
 
+Though you may have your own needs with a dataset, after a dataset is shared with a team, the desired outputs might be different. In that case, you may want to create a single dataset and allow the other users to develop reports and dashboards from the single dataset.  
+
