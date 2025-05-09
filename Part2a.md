@@ -17,4 +17,7 @@ Loading folders with data inside them can present a few unique challenges. Thoug
 
 The difference between the Combine and Transform Data option and the Transform Data option comes down to the file type and structure. Assuming that each file is similar and can create consistent columns, you can likely use the Combine and Transform Data option to bring everything into a single file. Otherwise, you’re better served using the Transform Data option, since there is usually a single file structure.  
 
-Most users, if they can point to the file path or if they know the database connection and security credentials or if they know the URL and associated parameters, can configure their data sources in no time. Power BI’s Power Query feature automatically detects the nuances in the connection and applies the proper transformations.
+Most users, if they can point to the file path or if they know the database connection and security credentials or if they know the URL and associated parameters, can configure their data sources in no time. Power BI’s Power Query feature automatically detects the nuances in the connection and applies the proper transformations.  
+
+### Managing Data Source Settings
+Commonly, your dataset requirements change over time. That means if the data source changes, so will some of the settings that were initially loaded when you configured Power BI. Suppose you move a folder containing files from `C:\Desktop` to `C:\Documents`. Such a change in folder location would require you to modify the data source settings.
