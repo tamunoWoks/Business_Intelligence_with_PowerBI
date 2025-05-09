@@ -16,7 +16,7 @@ To correctly map your data in Power BI, you must determine the exact nature of t
 - In the Open window, navigate to the particular file, click to select it, and then click Open.
 - With the file open, head to the Navigator and select all check boxes on the left.
 - Click the Transform Data button.  
-  After you click Transform Data, a new interface appears called the **Power Query Editor**. It’s what loads the data from the two Excel spreadsheet tabs you just clicked on from the previous Power BI screens. But If you’d gone with Load, you’d have to make modifications to your dataset manually.  
+After you click Transform Data, a new interface appears called the **Power Query Editor**. It’s what loads the data from the two Excel spreadsheet tabs you just clicked on from the previous Power BI screens. But If you’d gone with Load, you’d have to make modifications to your dataset manually.  
 
 When you load data into Power BI Desktop, the data is stored as a snapshot in time. To ensure that you view the latest data, you click the Refresh Preview button on the home screen every so often.  
 
