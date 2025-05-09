@@ -48,3 +48,7 @@ Commonly, your dataset requirements change over time. That means if the data sou
 *Doing so brings up a window pointing to the file path and file source.*
 - Make the updates necessary to match the new requirements:  
 *Change the file type or path of the original file for each query with this option.*
+
+Though the steps outlined here may seem easy, they might become laborious because you need to make a change to each file listed for each query. That process can be pretty time-consuming, and, if you have a lot of queries, you’re bound to make errors. That’s why you
+want to consider an alternative option where you can change the source location all at once rather than tackle each query independently.  
+
