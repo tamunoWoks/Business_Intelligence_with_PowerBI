@@ -72,3 +72,9 @@ Though you may have your own needs with a dataset, after a dataset is shared wit
 
 Connecting to a published dataset in Power BI Services requires a user to have Build permission. You can also be a contributing member of a shared workspace where a dataset exists. Make sure the owner of the dataset provisions your access according to your business need.  
 
+**You can connect to a shared dataset using either Power BI Desktop or Power BI Services. To accomplish this action, follow these steps:**
+- Using Power BI Desktop, either click the Power BI Datasets button on the Home Tab or click the tab’s Get Data button and then choose Power BI Datasets from the menu that appears.  
+*The data is transferred from Power BI Desktop to Power BI Services for you to
+consume.*
+- With Power BI Services, you would first go to the workspace you’ve published your data to and then choose New ➪ Report.
+
