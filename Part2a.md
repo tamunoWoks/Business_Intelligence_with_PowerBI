@@ -73,8 +73,15 @@ Though you may have your own needs with a dataset, after a dataset is shared wit
 Connecting to a published dataset in Power BI Services requires a user to have Build permission. You can also be a contributing member of a shared workspace where a dataset exists. Make sure the owner of the dataset provisions your access according to your business need.  
 
 **You can connect to a shared dataset using either Power BI Desktop or Power BI Services. To accomplish this action, follow these steps:**
-- Using Power BI Desktop, either click the Power BI Datasets button on the Home Tab or click the tab’s Get Data button and then choose Power BI Datasets from the menu that appears.  
+- Using Power BI Desktop, either click the Power BI Datasets button on the Home Tab or click the tab’s Get Data button and then choose Power BI Datasets from the menu that appears:  
 *The data is transferred from Power BI Desktop to Power BI Services for you to
 consume.*
 - With Power BI Services, you would first go to the workspace you’ve published your data to and then choose New ➪ Report.
+
+Whether you’re using Power BI Desktop or Power BI Services, your ability to connect to a dataset without having to worry about data refresh issues or version control becomes a bit easier. You also have the choice to select Save a Copy in the
+Power BI Service next to any report in My Workspace or a shared workspace without having to re-create a dataset. This action is similar to connecting to a dataset using Power BI Desktop, because you create a report without the base data model.  
+
+**NOTE:**  
+If you are using a shared dataset and then some buttons become inactive in Power BI Desktop, it is because you’re no longer able to make changes using Power Query Editor. As a result, the data view is also no longer visible.  
+However, you can tell whether your dataset is shared or local by looking in the lower right corner of the Power BI Desktop interface, where you can find the name of the dataset and the user accessing the data.  
 
