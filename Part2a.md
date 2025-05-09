@@ -11,6 +11,13 @@ data-sources`.
 
 To correctly map your data in Power BI, you must determine the exact nature of the data. For example, would you use the Excel Connector if the document type were meant for an Azure SQL database?  
 
+To connect to a file using the Excel Connector with Power BI Desktop, follow these steps:
+1. On the Excel Home tab, click either the Excel button or the Get Data button, and then choose Excel from the drop-down menu that appears.
+2. In the Open window, navigate to the particular file, click to select it, and then click Open.
+3. With the file open, head to the Navigator and select all check boxes on the left.
+4. Click the Transform Data button.
+   
+
 When you load data into Power BI Desktop, the data is stored as a snapshot in time. To ensure that you view the latest data, you click the Refresh Preview button on the home screen every so often.  
 
 Loading folders with data inside them can present a few unique challenges. Though you can point to a folder and ingest just about any type of file, it’s another matter to replicate a folder structure using the Power Query Editor. When you load data in Power BI stored inside a folder, you should ensure that the same file type and structure exist. An example is a series of Microsoft Excel or Google Sheet files that would be complimentary.  
