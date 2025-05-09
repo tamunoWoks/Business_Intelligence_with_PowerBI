@@ -89,4 +89,9 @@ However, you can tell whether your dataset is shared or local by looking in the 
 1. Click the Transform Data label.
 2. Select the Data Source Settings option.
 3. Modify the data source settings to the dataset you want to connect to instead of the shared dataset.
-4. Click the Change button once complete.
+4. Click the Change button once complete.  
+
+### Storage Modes
+You can consume data in many ways using Power BI Desktop and Power BI Services. The most common method is to import data into a data model. By importing the data in Power BI, you’re copying the dataset locally until you commit to a data refresh. Though data files and folders can only be imported into Power BI, databases allow you to use a connection that
+supports more flexibility.  
+
