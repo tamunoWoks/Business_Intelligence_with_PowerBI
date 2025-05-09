@@ -107,4 +107,6 @@ You face some risks, though, when dealing with model security. Suppose, for exam
 #### Dual Mode
 The four storage modes — local storage, DirectQuery, Live Connection, and composite models — have data housed in a single location. It’s either local to the user or bound to some server on a network in a data center or the cloud.  
 
-Looking back at the composite model, the storage mode property prescribes where tables are stored in the data model. To view the properties of a table, you can hover over a table. In Power BI, you can do this in either the Fields pane of a report or by accessing the Data view. You can also change the Model view in the Properties pane by finding the Advanced section.
+Looking back at the composite model, the storage mode property prescribes where tables are stored in the data model. To view the properties of a table, you can hover over a table. In Power BI, you can do this in either the Fields pane of a report or by accessing the Data view. You can also change the Model view in the Properties pane by finding the Advanced section.  
+
+You can choose one of three options for the storage model: Import, DirectQuery, or Dual. You might be wondering why you can’t choose Live Connection or Composite as well. Simply put, those particular options are hybrid modes of Import and DirectQuery.
