@@ -105,4 +105,6 @@ You can also use one of two other methods:
 You face some risks, though, when dealing with model security. Suppose, for example, you open a Power Bi Desktop file that is sent from an untrusted source. If the file contains a composite model, the information that someone retrieves from a single source using credentials from a user opening the file can be sent to another data source as part of the newly formed query. Therefore, it’s vital to ensure that your data sources are correctly assigned to only those who need access to the sources.  
 
 #### Dual Mode
-The four storage modes — local storage, DirectQuery, Live Connection, and composite models — have data housed in a single location. It’s either local to the user or bound to some server on a network in a data center or the cloud.
+The four storage modes — local storage, DirectQuery, Live Connection, and composite models — have data housed in a single location. It’s either local to the user or bound to some server on a network in a data center or the cloud.  
+
+Looking back at the composite model, the storage mode property prescribes where tables are stored in the data model. To view the properties of a table, you can hover over a table. In Power BI, you can do this in either the Fields pane of a report or by accessing the Data view. You can also change the Model view in the Properties pane by finding the Advanced section.
