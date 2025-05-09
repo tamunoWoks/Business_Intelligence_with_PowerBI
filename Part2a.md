@@ -40,4 +40,12 @@ The difference between the Combine and Transform Data option and the Transform D
 Most users, if they can point to the file path or if they know the database connection and security credentials or if they know the URL and associated parameters, can configure their data sources in no time. Power BI’s Power Query feature automatically detects the nuances in the connection and applies the proper transformations.  
 
 ### Managing Data Source Settings
-Commonly, your dataset requirements change over time. That means if the data source changes, so will some of the settings that were initially loaded when you configured Power BI. Suppose you move a folder containing files from `C:\Desktop` to `C:\Documents`. Such a change in folder location would require you to modify the data source settings.
+Commonly, your dataset requirements change over time. That means if the data source changes, so will some of the settings that were initially loaded when you configured Power BI. Suppose you move a folder containing files from `C:\Desktop` to `C:\Documents`. Such a change in folder location would require you to modify the data source settings.  
+
+**You can go about making these changes in one of two ways:**
+- Select each query under Queries on the left.
+- Locate Query Settings on the right side of the interface.
+- Under Applied Steps, click Source.  
+Doing so brings up a window pointing to the file path and file source.
+- Make the updates necessary to match the new requirements.  
+Change the file type or path of the original file for each query with this option.
