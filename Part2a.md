@@ -98,3 +98,7 @@ supports more flexibility.
 Two alternatives exist with database connectivity:  
 - **Import the data locally:** This supports data model caching as well as the ability to reduce number of connections and lookups. By ingesting the model, a user can use all Desktop features offered with Power BI.  
 - **Create a connection to the data source with DirectQuery:** With this feature, the data isn’t cached. Instead, the data source must be queried each time a data call is required. Most, but not all, data sources support DirectQuery.
+
+You can also use one of two other methods:  
+1. Live Connection where the goal is to use the analysis services integrated with Power BI Desktop or Power BI Services. Live Connection also supports calculation-based activities that occur within a data model.
+2. 
