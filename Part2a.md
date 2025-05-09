@@ -16,8 +16,7 @@ To correctly map your data in Power BI, you must determine the exact nature of t
 - In the Open window, navigate to the particular file, click to select it, and then click Open.
 - With the file open, head to the Navigator and select all check boxes on the left.
 - Click the Transform Data button.  
-
-After you click Transform Data, a new interface appears called the **Power Query Editor**. It’s what loads the data from the two Excel spreadsheet tabs you just clicked on from the previous Power BI screens. But If you’d gone with Load, you’d have to make modifications to your dataset manually.  
+*After you click Transform Data, a new interface appears called the **Power Query Editor**. It’s what loads the data from the two Excel spreadsheet tabs you just clicked on from the previous Power BI screens. But If you’d gone with Load, you’d have to make modifications to your dataset manually*.  
 
 When you load data into Power BI Desktop, the data is stored as a snapshot in time. To ensure that you view the latest data, you click the Refresh Preview button on the home screen every so often.  
 
@@ -26,14 +25,14 @@ Loading folders with data inside them can present a few unique challenges. Thoug
 **To make sure that happens, be sure to follow these steps:**
 - Go to the Home tab on the Ribbon and click the Get Data button.
 - Choose All ➪ Folder from the menu that appears.  
-Want to try another way? Go to the Home tab on the Ribbon, click New Source, choose More from the menu that appears, and then choose Folder.
+*Want to try another way? Go to the Home tab on the Ribbon, click New Source, choose More from the menu that appears, and then choose Folder.*
 - Whichever way you select Folder, your next step is to click the Connect button.  
-Pressing the Connect button enables access to a single data source.
+*Pressing the Connect button enables access to a single data source.*
 - Locate the folder path specific to where you’ve stored files on your desktop, then browse to the location where you’ve placed the file similar, eg. `C:\DummiesFiles\TrainingNAICS`.  
-The files from the folder you just selected load into a new screen.
+*The files from the folder you just selected load into a new screen.*
 - Select one or more tables that have loaded.
 - Once the tables have been selected, click the Combine and Transform Data button.  
-The datasets from the TrainingNAICS.xlsx are now loaded into Power Query Editor.
+*The datasets from the TrainingNAICS.xlsx are now loaded into Power Query Editor.*
 
 The difference between the Combine and Transform Data option and the Transform Data option comes down to the file type and structure. Assuming that each file is similar and can create consistent columns, you can likely use the Combine and Transform Data option to bring everything into a single file. Otherwise, you’re better served using the Transform Data option, since there is usually a single file structure.  
 
@@ -46,6 +45,6 @@ Commonly, your dataset requirements change over time. That means if the data sou
 - Select each query under Queries on the left.
 - Locate Query Settings on the right side of the interface.
 - Under Applied Steps, click Source.  
-Doing so brings up a window pointing to the file path and file source.
+*Doing so brings up a window pointing to the file path and file source.*
 - Make the updates necessary to match the new requirements.  
-Change the file type or path of the original file for each query with this option.
+*Change the file type or path of the original file for each query with this option.*
