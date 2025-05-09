@@ -109,4 +109,6 @@ The four storage modes — local storage, DirectQuery, Live Connection, and comp
 
 Looking back at the composite model, the storage mode property prescribes where tables are stored in the data model. To view the properties of a table, you can hover over a table. In Power BI, you can do this in either the Fields pane of a report or by accessing the Data view. You can also change the Model view in the Properties pane by finding the Advanced section.  
 
-You can choose one of three options for the storage model: Import, DirectQuery, or Dual. You might be wondering why you can’t choose Live Connection or Composite as well. Simply put, those particular options are hybrid modes of Import and DirectQuery.
+You can choose one of three options for the storage model: Import, DirectQuery, or Dual. You might be wondering why you can’t choose Live Connection or Composite as well. Simply put, those particular options are hybrid modes of Import and DirectQuery.  
+
+Dual mode isn’t a hybrid mode. It allows for a table to be cached and retrieved in DirectQuery mode when necessary. If another storage mode is used for another table, DirectQuery doesn’t need usage. You’ll find that Dual mode is beneficial when tables are similar between those imported and exclusively available using DirectQuery mode.
