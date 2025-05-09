@@ -61,4 +61,10 @@ want to consider an alternative option where you can change the source location 
 
 ### Working with Shared versus Local Datasets  
 After a dataset is published and shared with others by way of either your own workspace or a shared one, the dataset is referred to as a **shared dataset**.  
-Unlike with Power BI Desktop, where you have to continually update the dataset on the local hard drive, a shared dataset is stored on the cloud, which means that, whether it’s stored in your workspace or with others, updates can be more consistent.
+Unlike with Power BI Desktop, where you have to continually update the dataset on the local hard drive, a shared dataset is stored on the cloud, which means that, whether it’s stored in your workspace or with others, updates can be more consistent.  
+
+You can find many other benefits to using a shared dataset over a local dataset, including:
+- Consistency across reports and dashboards
+- Reduction in dataset copying due to centralization of a data source
+- The ability to create new data sources from existing sources with little effort.
+
