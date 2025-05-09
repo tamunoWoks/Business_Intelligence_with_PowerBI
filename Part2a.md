@@ -23,6 +23,18 @@ When you load data into Power BI Desktop, the data is stored as a snapshot in ti
 
 Loading folders with data inside them can present a few unique challenges. Though you can point to a folder and ingest just about any type of file, it’s another matter to replicate a folder structure using the Power Query Editor. When you load data in Power BI stored inside a folder, you should ensure that the same file type and structure exist. An example is a series of Microsoft Excel or Google Sheet files that would be complimentary.  
 
+**To make sure that happens, be sure to follow these steps:**
+- Go to the Home tab on the Ribbon and click the Get Data button.
+- Choose All ➪ Folder from the menu that appears.  
+Want to try another way? Go to the Home tab on the Ribbon, click New Source, choose More from the menu that appears, and then choose Folder.
+- Whichever way you select Folder, your next step is to click the Connect button.  
+Pressing the Connect button enables access to a single data source.
+- Locate the folder path specific to where you’ve stored files on your desktop, then browse to the location where you’ve placed the file similar, eg. `C:\DummiesFiles\TrainingNAICS`.  
+The files from the folder you just selected load into a new screen.
+- Select one or more tables that have loaded.
+- Once the tables have been selected, click the Combine and Transform Data button.  
+The datasets from the TrainingNAICS.xlsx are now loaded into Power Query Editor.
+
 The difference between the Combine and Transform Data option and the Transform Data option comes down to the file type and structure. Assuming that each file is similar and can create consistent columns, you can likely use the Combine and Transform Data option to bring everything into a single file. Otherwise, you’re better served using the Transform Data option, since there is usually a single file structure.  
 
 Most users, if they can point to the file path or if they know the database connection and security credentials or if they know the URL and associated parameters, can configure their data sources in no time. Power BI’s Power Query feature automatically detects the nuances in the connection and applies the proper transformations.  
