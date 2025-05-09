@@ -85,3 +85,8 @@ Power BI Service next to any report in My Workspace or a shared workspace withou
 If you are using a shared dataset and then some buttons become inactive in Power BI Desktop, it is because you’re no longer able to make changes using Power Query Editor. As a result, the data view is also no longer visible.  
 However, you can tell whether your dataset is shared or local by looking in the lower right corner of the Power BI Desktop interface, where you can find the name of the dataset and the user accessing the data.  
 
+**If you ever need to change from a shared dataset to a local dataset, follow these steps:**
+1. Click the Transform Data label.
+2. Select the Data Source Settings option.
+3. Modify the data source settings to the dataset you want to connect to instead of the shared dataset.
+4. Click the Change button once complete.
