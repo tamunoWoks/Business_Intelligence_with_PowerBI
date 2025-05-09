@@ -12,10 +12,10 @@ data-sources`.
 To correctly map your data in Power BI, you must determine the exact nature of the data. For example, would you use the Excel Connector if the document type were meant for an Azure SQL database?  
 
 **To connect to a file using the Excel Connector with Power BI Desktop, follow these steps:**
-- On the Excel Home tab, click either the Excel button or the Get Data button, and then choose Excel from the drop-down menu that appears.
-- In the Open window, navigate to the particular file, click to select it, and then click Open.
-- With the file open, head to the Navigator and select all check boxes on the left.
-- Click the Transform Data button:  
+1. On the Excel Home tab, click either the Excel button or the Get Data button, and then choose Excel from the drop-down menu that appears.
+2. In the Open window, navigate to the particular file, click to select it, and then click Open.
+3. With the file open, head to the Navigator and select all check boxes on the left.
+4. Click the Transform Data button:  
 *After you click Transform Data, a new interface appears called the **Power Query Editor**. It’s what loads the data from the two Excel spreadsheet tabs you just clicked on from the previous Power BI screens. But If you’d gone with Load, you’d have to make modifications to your dataset manually*.  
 
 When you load data into Power BI Desktop, the data is stored as a snapshot in time. To ensure that you view the latest data, you click the Refresh Preview button on the home screen every so often.  
@@ -23,15 +23,15 @@ When you load data into Power BI Desktop, the data is stored as a snapshot in ti
 Loading folders with data inside them can present a few unique challenges. Though you can point to a folder and ingest just about any type of file, it’s another matter to replicate a folder structure using the Power Query Editor. When you load data in Power BI stored inside a folder, you should ensure that the same file type and structure exist. An example is a series of Microsoft Excel or Google Sheet files that would be complimentary.  
 
 **To make sure that happens, be sure to follow these steps:**
-- Go to the Home tab on the Ribbon and click the Get Data button.
-- Choose All ➪ Folder from the menu that appears:  
+1. Go to the Home tab on the Ribbon and click the Get Data button.
+2. Choose All ➪ Folder from the menu that appears:  
 *Want to try another way? Go to the Home tab on the Ribbon, click New Source, choose More from the menu that appears, and then choose Folder.*
-- Whichever way you select Folder, your next step is to click the Connect button:  
+3. Whichever way you select Folder, your next step is to click the Connect button:  
 *Pressing the Connect button enables access to a single data source.*
-- Locate the folder path specific to where you’ve stored files on your desktop, then browse to the location where you’ve placed the file similar, eg. `C:\DummiesFiles\TrainingNAICS`:  
+4. Locate the folder path specific to where you’ve stored files on your desktop, then browse to the location where you’ve placed the file similar, eg. `C:\DummiesFiles\TrainingNAICS`:  
 *The files from the folder you just selected load into a new screen.*
-- Select one or more tables that have loaded.
-- Once the tables have been selected, click the Combine and Transform Data button:  
+5. Select one or more tables that have loaded.
+6. Once the tables have been selected, click the Combine and Transform Data button:  
 *The datasets from the TrainingNAICS.xlsx are now loaded into Power Query Editor.*
 
 The difference between the Combine and Transform Data option and the Transform Data option comes down to the file type and structure. Assuming that each file is similar and can create consistent columns, you can likely use the Combine and Transform Data option to bring everything into a single file. Otherwise, you’re better served using the Transform Data option, since there is usually a single file structure.  
@@ -42,22 +42,22 @@ Most users, if they can point to the file path or if they know the database conn
 Commonly, your dataset requirements change over time. That means if the data source changes, so will some of the settings that were initially loaded when you configured Power BI. Suppose you move a folder containing files from `C:\Desktop` to `C:\Documents`. Such a change in folder location would require you to modify the data source settings.  
 
 **You can go about making these changes in one of two ways:**
-- Select each query under Queries on the left.
-- Locate Query Settings on the right side of the interface.
-- Under Applied Steps, click Source:  
+1. Select each query under Queries on the left.
+2. Locate Query Settings on the right side of the interface.
+3. Under Applied Steps, click Source:  
 *Doing so brings up a window pointing to the file path and file source.*
-- Make the updates necessary to match the new requirements:  
+4. Make the updates necessary to match the new requirements:  
 *Change the file type or path of the original file for each query with this option.*
 
 Though the steps outlined here may seem easy, they might become laborious because you need to make a change to each file listed for each query. That process can be pretty time-consuming, and, if you have a lot of queries, you’re bound to make errors. That’s why you
 want to consider an alternative option where you can change the source location all at once rather than tackle each query independently.  
 
 **Follow these steps for the other method:**
-- On the Power Query Editor’s Home tab, click the Data Source Settings button:  
+1. On the Power Query Editor’s Home tab, click the Data Source Settings button:  
 *A new window opens to make the source location change.*
-- Select all files requiring a change in location by choosing Change Source.
-- Make the changes you want to the source location.
-- (Optional) Change and clear associated security credentials by selecting Edit Permissions or Clear Permissions in this interface.
+2. Select all files requiring a change in location by choosing Change Source.
+3. Make the changes you want to the source location.
+4. (Optional) Change and clear associated security credentials by selecting Edit Permissions or Clear Permissions in this interface.
 
 ### Working with Shared versus Local Datasets  
 After a dataset is published and shared with others by way of either your own workspace or a shared one, the dataset is referred to as a **shared dataset**.  
@@ -73,10 +73,10 @@ Though you may have your own needs with a dataset, after a dataset is shared wit
 Connecting to a published dataset in Power BI Services requires a user to have Build permission. You can also be a contributing member of a shared workspace where a dataset exists. Make sure the owner of the dataset provisions your access according to your business need.  
 
 **You can connect to a shared dataset using either Power BI Desktop or Power BI Services. To accomplish this action, follow these steps:**
-- Using Power BI Desktop, either click the Power BI Datasets button on the Home Tab or click the tab’s Get Data button and then choose Power BI Datasets from the menu that appears:  
+1. Using Power BI Desktop, either click the Power BI Datasets button on the Home Tab or click the tab’s Get Data button and then choose Power BI Datasets from the menu that appears:  
 *The data is transferred from Power BI Desktop to Power BI Services for you to
 consume.*
-- With Power BI Services, you would first go to the workspace you’ve published your data to and then choose New ➪ Report.
+2. With Power BI Services, you would first go to the workspace you’ve published your data to and then choose New ➪ Report.
 
 Whether you’re using Power BI Desktop or Power BI Services, your ability to connect to a dataset without having to worry about data refresh issues or version control becomes a bit easier. You also have the choice to select Save a Copy in the
 Power BI Service next to any report in My Workspace or a shared workspace without having to re-create a dataset. This action is similar to connecting to a dataset using Power BI Desktop, because you create a report without the base data model.  
