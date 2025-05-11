@@ -127,9 +127,9 @@ Consider the circumstances described in this list:
 DirectQuery isn’t the best lifeboat if you think that direct importing doesn’t solve your problems. You face an uphill battle at times using DirectQuery under the following conditions:
 - The state of your infrastructure dictates the results for DirectQuery.  
 *That means slow or old hardware won’t work the way you think it will when dealing with large datasets.*
-- Not all query types are usable with DirectQuery.
+- Not all query types are usable with DirectQuery.  
 *This is especially true for native queries that have table expressions or stored procedures.*
-- Data transformation is limited, unlike direct import.
+- Data transformation is limited, unlike direct import.  
 *You must interact with the interface each time a change is required.*
-- Data modeling limitations exist, especially when you’re addressing calculated tables and columns.
+- Data modeling limitations exist, especially when you’re addressing calculated tables and columns.  
 *DAX functionality is limited when you use DirectQuery to import data.*
