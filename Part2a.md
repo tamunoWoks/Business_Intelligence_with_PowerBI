@@ -119,3 +119,4 @@ If you must change storage modes, you might face some complications. For example
 You can choose from various methods to prepare and load data into Power BI. When you’re in doubt, the method that ensures you and your organization the most accuracy is Import mode. In some use cases, though, the user experience for direct
 import isn’t the best.  
 Consider the circumstances described in this list: 
+- DirectQuery may be the better choice when dealing with a very large dataset. However, the performance of the import correlates directly to the system that the import is coming from.
