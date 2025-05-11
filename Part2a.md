@@ -113,4 +113,9 @@ You can choose one of three options for the storage model: Import, DirectQuery, 
 
 Dual mode isn’t a hybrid mode. It allows for a table to be cached and retrieved in DirectQuery mode when necessary. If another storage mode is used for another table, DirectQuery doesn’t need usage. You’ll find that Dual mode is beneficial when tables are similar between those imported and exclusively available using DirectQuery mode.  
 
-If you must change storage modes, you might face some complications. For example, you won’t revert later if you decide to go from DirectQuery mode or Dual mode to Import mode. Furthermore, if you decide to take the plunge and change to Dual mode because of changes in table storage, you need to create the table first with DirectQuery.
+If you must change storage modes, you might face some complications. For example, you won’t revert later if you decide to go from DirectQuery mode or Dual mode to Import mode. Furthermore, if you decide to take the plunge and change to Dual mode because of changes in table storage, you need to create the table first with DirectQuery.  
+
+### Considering the Query
+You can choose from various methods to prepare and load data into Power BI. When you’re in doubt, the method that ensures you and your organization the most accuracy is Import mode. In some use cases, though, the user experience for direct
+import isn’t the best.  
+Consider the circumstances described in this list: 
