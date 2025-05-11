@@ -121,4 +121,15 @@ import isn’t the best.
 Consider the circumstances described in this list: 
 - DirectQuery may be the better choice when dealing with a very large dataset. However, the performance of the import correlates directly to the system that the import is coming from.
 - Data frequency and freshness are two reasons to use DirectQuery. This is the case because data sources must always show the return of results in a reasonable length of time.
-- Suppose that the data must reside in its original data source and that the location of the source cannot change. In that case, DirectQuery is better suited for data movement.
+- Suppose that the data must reside in its original data source and that the location of the source cannot change. In that case, DirectQuery is better suited for data movement.  
+
+**Warning:**
+DirectQuery isn’t the best lifeboat if you think that direct importing doesn’t solve your problems. You face an uphill battle at times using DirectQuery under the following conditions:
+- The state of your infrastructure dictates the results for DirectQuery.  
+*That means slow or old hardware won’t work the way you think it will when dealing with large datasets.*
+- Not all query types are usable with DirectQuery.
+*This is especially true for native queries that have table expressions or stored procedures.*
+- Data transformation is limited, unlike direct import.
+*You must interact with the interface each time a change is required.*
+- Data modeling limitations exist, especially when you’re addressing calculated tables and columns.
+*DAX functionality is limited when you use DirectQuery to import data.*
