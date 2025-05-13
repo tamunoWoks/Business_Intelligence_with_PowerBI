@@ -7,5 +7,4 @@
 | Refresh cycle | Based on license: Pro has eight refreshes per day; Premium has unlimited refreshes per day | Shows latest data available in the source | Shows latest data available in the source | 
 | Performance metrics | Optimal | Varies based on data sources | Optimal |
 | Data transformation | All features | Limited based on data source transformation language | Not applicable |
-| Modeling requirements | All features | Significant limitations | Analysis services and Power BI Services measures created with
-limitations |
+| Modeling requirements | All features | Significant limitations | Analysis services and Power BI Services measures created with limitations |
