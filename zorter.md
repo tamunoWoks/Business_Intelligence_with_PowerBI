@@ -3,5 +3,4 @@
 |:---|:--------|:-------------|:-----------------|
 | Maximum size | Based on how you’re licensed | Limited by your infrastructure. | Services have dataset size limits like Import Data. Otherwise, infrastructure limits your size. |
 | Number of sources | Unlimited | Unlimited | One |
-| Security | Row level based on user login | Row level security. Security is defined as the data source for some sources. However, row level security can still be used in Power BI Desktop. | Can use data source security based on current user
-login |
+| Security | Row level based on user login | Row level security. Security is defined as the data source for some sources. However, row level security can still be used in Power BI Desktop. | Can use data source security based on current user login |
