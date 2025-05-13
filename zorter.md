@@ -6,3 +6,4 @@
 | Security | Row level based on user login | Row level security. Security is defined as the data source for some sources. However, row level security can still be used in Power BI Desktop | Can use data source security based on current user login |
 | Refresh cycle | Based on license: Pro has eight refreshes per day; Premium has unlimited refreshes per day | Shows latest data available in the source | Shows latest data available in the source | 
 | Performance metrics | Optimal | Varies based on data sources | Optimal |
+| Data transformation | All features | Limited based on data source transformation language | Not applicable |
